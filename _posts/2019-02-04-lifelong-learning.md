@@ -50,4 +50,4 @@ So, even if you aren’t actively looking for a new role, attend local networkin
 
 Learning is something we do every day. Just being a bit more cognizant and purposeful about it can go a long way in making your world more interesting and your opportunities more robust.
 
-Learn more: This is an [The Red Pen](https://theredpen.in/).
+Originall published on: [Aspioneer.com](https://aspioneer.com/lifelong-learning-imperative-for-workforce-re-entry-and-relevance/) on post page.

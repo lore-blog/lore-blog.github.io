@@ -1,7 +1,7 @@
 # Site
 name: 'The Lore Blog'
-description: 'The Lore Blog Platform'
-meta_description: 'The Lore Blog Platform'
+description: 'The Global education and learning Blog #LearningNeverEnds'
+meta_description: 'The Global education and learning Blog #LearningNeverEnds'
 logo: 'assets/images/logo-beta.png'
 favicon: 'assets/images/logo-beta.png'
 google_analytics: 'UA-46278016-1'
@@ -29,8 +29,8 @@ authors:
   kavita:
     name: Kavita
     display_name: Kavita Mehta
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
     description: Kavita Mehta is a thought leader at the intersection of education, skill-building, technology and impact. Her 25-year career across financial services, digital media and entrepreneurship is firmly grounded in her belief that education is a right, not a privilege. Her focus on mentorship empowers others to magnify impact and increase confidence through a keen awareness of their own potential. She is the founder of Caymus Technology Ventures, co-founder of The Red Pen and author of Acing Admissions, published by HarperCollins.
+    image: '/assets/images/authors/kavita-mehta.jpg'
 
 # Plugins
 plugins:
