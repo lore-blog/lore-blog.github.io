@@ -5,7 +5,8 @@
   <div class="card h-100">
     <div class="maxthumb">
       <a href="{{ post.url | absolute_url }}">
-        {% if post.image %} <img class="img-fluid" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ post.image | absolute_url }}{% endif %}" alt="{{ post.title }}"> {% endif %}
+        {% if post.thumbnail %} <img class="img-fluid" src="{% if post.thumbnail contains "://" %}{{ post.thumbnail }}{% else %}{{ post.thumbnail | absolute_url }}{% endif %}" alt="{{ post.title }}">
+        {% endif %}
       </a>
     </div>
     <div class="card-body">
