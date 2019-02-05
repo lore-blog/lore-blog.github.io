@@ -11,7 +11,11 @@
     </div>
     <div class="card-body">
       <h2 class="card-title">
+        {% if post.type == 'blog' %}
         <a class="text-dark" href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+        {% endif %} {% if post.type == 'link' %}
+        <a class="text-dark" target="_blank" href="{{ post.hyperlink }}">{{ post.title }}</a>
+        {% endif %}
       </h2>
       <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords: 30 }}</h4>
     </div>
@@ -27,7 +31,7 @@
         </span>
         <span class="author-meta">
           <span class="post-name"
-            ><a target="_blank" href="{{ author.web }}">{{ author.display_name }}</a></span
+            ><a target="_blank" href="{{ author.profile }}">{{ author.display_name }}</a></span
           ><br />
           {% endif %}
           <span class="post-date">{{ post.date | date_to_string }}</span>

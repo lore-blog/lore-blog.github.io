@@ -5,7 +5,7 @@ author: kavita
 hero: assets/images/lifelong-learning-full.png
 thumbnail: assets/images/lifelong-learning-thumb.png
 featured: true
-comments: false
+type: blog
 ---
 
 Like many women, I have multiple identities - I am a professional, mother, wife, daughter, and sister. Each of these identities is important, and, over the last two decades, I have learned to juggle the different priorities each role demands. From Wall Street to Silicon Valley and Philadelphia to Mumbai, there have been daunting challenges, but nothing seemed impossible, as long as I invested in myself.

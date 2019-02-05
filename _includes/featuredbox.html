@@ -19,7 +19,11 @@
                 <div class="h-100 card-group">
                     <div class="card">
                         <div class="card-body">
+                            {% if post.type == 'blog' %}
                             <h2 class="card-title"><a class="text-dark" href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+                            {% endif %} {% if post.type == 'link' %}
+                            <h2 class="card-title"><a class="text-dark" href="{{ post.hyperlink }}">{{ post.title }}</a></h2>
+                            {% endif %}
                             <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:25 }}</h4>
                         </div>
                         <div class="card-footer b-0 bg-white mt-auto">
@@ -34,7 +38,7 @@
                                 {% endif %}
                                 </span>
                                 <span class="author-meta">
-                                <span class="post-name"><a target="_blank" href="{{ author.web }}">{{ author.display_name }}</a></span><br/>
+                                <span class="post-name"><a target="_blank" href="{{ author.profile }}">{{ author.display_name }}</a></span><br/>
                                 {% endif %}
                                 <span class="post-date">{{ post.date | date_to_string }}</span>
                                 </span>
