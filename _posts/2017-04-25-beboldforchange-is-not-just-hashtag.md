@@ -9,4 +9,4 @@ featured: false
 type: link
 ---
 
-I had the privilege of attending the International Finance Corporation's (IFC) recent conference, celebrating women in entrepreneurship as change makers and leaders, and it got me thinking about my own experiences and about women in business in India. IFC's #beboldforchange initiative is more than just a hashtag for me; it is a call to action, asking men and women across India to work together to reduce gender disparity in the workforce.
+I had the esteemed privilege of attending the International Finance Corporation's (IFC) recent conference, celebrating women in entrepreneurship as change makers and leaders, and it got me thinking about my own experiences and about women in business in India. IFC's #beboldforchange initiative is more than just a hashtag for me; it is a call to action, asking men and women across India to work together to reduce gender disparity in the workforce.
