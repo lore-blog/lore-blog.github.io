@@ -2,7 +2,6 @@
 layout: post
 title: 'Lifelong learning'
 author: kavita
-categories: [Jekyll, tutorial]
 hero: assets/images/lifelong-learning-full.png
 thumbnail: assets/images/lifelong-learning-thumb.png
 featured: true
