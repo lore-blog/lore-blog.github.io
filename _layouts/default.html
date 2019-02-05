@@ -31,6 +31,8 @@
     <link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet" />
 
     <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet" />
+
+    <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5c5952536dbc680011d2b351&product=sticky-share-buttons" async="async"></script>
   </head>
 
   {% if jekyll.environment == 'production' %}
@@ -78,20 +80,22 @@
             <li class="nav-item active">
               {% else %}
             </li>
-
             <li class="nav-item">
               {% endif %}
-              <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
+              <a class="nav-link" href="{{ site.baseurl }}/#featured">Featured</a>
             </li>
 
-            {% if page.url == "/about.html" %}
+            {% if page.url == "/" %}
             <li class="nav-item active">
               {% else %}
             </li>
-
             <li class="nav-item">
               {% endif %}
-              <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
+              <a class="nav-link" href="{{ site.baseurl }}/#stories">Stories</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" target="_blank" href="{{ site.lore_url }}">Lore.online</a>
             </li>
           </ul>
 
