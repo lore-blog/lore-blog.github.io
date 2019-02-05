@@ -3,7 +3,8 @@ layout: post
 title: 'Lifelong learning'
 author: kavita
 categories: [Jekyll, tutorial]
-image: assets/images/lifelong-learning.png
+hero: assets/images/lifelong-learning-full.png
+thumbnail: assets/images/lifelong-learning-thumb.png
 featured: true
 comments: false
 ---
@@ -50,4 +51,4 @@ So, even if you aren’t actively looking for a new role, attend local networkin
 
 Learning is something we do every day. Just being a bit more cognizant and purposeful about it can go a long way in making your world more interesting and your opportunities more robust.
 
-Originall published on: [Aspioneer.com](https://aspioneer.com/lifelong-learning-imperative-for-workforce-re-entry-and-relevance/) on post page.
+Originally published on: [Aspioneer.com](https://aspioneer.com/lifelong-learning-imperative-for-workforce-re-entry-and-relevance/).

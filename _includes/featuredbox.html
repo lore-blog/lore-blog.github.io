@@ -1,5 +1,7 @@
 <!-- begin post -->
+
 {% assign author = site.authors[post.author] %}
+
 <div class="col-md-6 mb-30px">
     <div class="listfeaturedtag h-100">
         <div class="row h-100">
@@ -7,7 +9,7 @@
                 <div class="h-100">
                     <div class="wrapthumbnail">
                         <a href="{{ post.url | absolute_url }}">
-                            <span class="thumbnail d-block" style="background-image:url({% if post.image contains "://" %}{{ post.image }}{% else %}{{ post.image | absolute_url }}{% endif %});">
+                            <span class="thumbnail d-block" style="background-image:url({% if post.thumbnail contains "://" %}{{ post.thumbnail }}{% else %}{{ post.thumbnail | absolute_url }}{% endif %});">
                             </span>
                         </a>
                     </div>

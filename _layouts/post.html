@@ -9,16 +9,10 @@ post_class: post-template
 <div class="container">
 	<div class="row">
 
-		<!-- Post Share -->
-		<div class="col-md-2 pl-0">            
-           {% include share.html %}  
-		</div>
-		
-
 		<!-- Post -->        
         {% assign author = site.authors[page.author] %}
         
-		<div class="col-md-9 flex-first flex-md-unordered">
+		<div class="col-md-12 flex-first flex-md-unordered">
 			<div class="mainheading">
 
                 <!-- Author Box -->
@@ -42,7 +36,7 @@ post_class: post-template
 			</div>
 
 			<!-- Post Featured Image -->
-			{% if page.image %}<img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}">{% endif %}
+			{% if page.hero %}<img class="featured-image img-fluid" src="{% if page.hero contains "://" %}{{ page.hero }}{% else %}{{ page.hero | absolute_url }}{% endif %}" alt="{{ page.title }}">{% endif %}
 			<!-- End Featured Image -->
 
 			<!-- Post Content -->
@@ -60,18 +54,9 @@ post_class: post-template
                 </small>
             </p>
             
-			<!-- Post Categories -->
-			<div class="after-post-tags">
-				<ul class="tags">
-                    {% assign sortedCategories = page.categories | sort %}
-                    {% for category in sortedCategories %}
-                    <li>
-                     <a href="{{ site.baseurl }}/category/{{ category | slugify }}/">{{ category }}</a>
-                    </li>
-                    {% endfor %}
-				</ul>
-			</div>
-			<!-- End Categories -->
+            <div class="sharethis-widget">
+                <div class="sharethis-inline-share-buttons"></div>
+            </div>
             
             <!-- Prev/Next -->
             <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
