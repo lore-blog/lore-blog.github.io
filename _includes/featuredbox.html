@@ -8,8 +8,8 @@
             <div class="col-lg-5 col-md-12 pr-lg-0">
                 <div class="h-100">
                     <div class="wrapthumbnail">
-                        <a href="{{ post.url | relative_url  }}">
-                            <span class="thumbnail d-block" style="background-image:url({% if post.thumbnail contains "://" %}{{ post.thumbnail }}{% else %}{{ post.thumbnail | absolute_url }}{% endif %});">
+                        <a href="{{ post.url | relative_url }}">
+                            <span class="thumbnail d-block" style="background-image:url({% if post.thumbnail contains "://" %}{{ post.thumbnail }}{% else %}{{ post.thumbnail | relative_url }}{% endif %});">
                             </span>
                         </a>
                     </div>
