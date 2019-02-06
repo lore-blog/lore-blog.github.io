@@ -13,7 +13,7 @@ In the 21st-century employment market, companies are demanding skills that go be
 ---
 “According to the World Economic Forum’s Future of Jobs report, nearly half the subject knowledge learned during the first year of a four-year technical degree will be outdated by the time a student graduates, with practical skill-sets also subject to increasing change and disruption. Recruiters are likely to [shift their focus to] ‘soft skills’…. like risk-taking, fairness, curiosity and problem-solving.”
 
-<b>Trends in graduate recruitment – what to expect in the next 5 years</b>
+#Trends in graduate recruitment – what to expect in the next 5 years
 ---
 
 
