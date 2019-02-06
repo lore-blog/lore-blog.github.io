@@ -42,5 +42,3 @@ As the co-founder and leader of a start-up growing at a steady clip, I regularly
 Having the ability to masterfully navigate a spreadsheet instantly improves your employability and gives you options. You may see a 10-15% jump in your compensation if you demonstrate a keen understanding of the power of spreadsheets and the ability to apply that knowledge. Regardless of your role, chances are that a spreadsheet could help you do your job better. Being great at spreadsheets can make you the go-to person in the office; when a manager or co-worker needs some Excel wizardry, you could step in and earn extra bonus points along the way.
 
 Admittedly, spreadsheets can be intimidating. It’s just a matter of learning (you can take courses), practicing and having the patience to develop the habit. Learning to create systems of data can help you both personally and professionally. So, start now and see what spreadsheets can do for you.
-
-<i>How has Excel (or any spreadsheet program) changed the way you work? Share your success in the comments.</i>
