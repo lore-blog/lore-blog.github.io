@@ -51,6 +51,4 @@ We see this in practice every day. We know of a professional colleague who is al
 
 When an individual has the opportunity to indulge in a range of interests, their creativity and satisfaction soar. And that’s when their best work and efforts materialize. 
 
-Comment below - we'd love to hear about unusual career paths or different education options! And, if you have any specific questions, post away!
-
 <i>Note: A condensed version of this article was released to IANS on August 26, 2018 and was subsequently reprinted in several regional publications.</i>
