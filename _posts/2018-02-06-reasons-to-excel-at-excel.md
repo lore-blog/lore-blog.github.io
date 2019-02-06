@@ -16,7 +16,7 @@ The reason is…data. It is all around us. It is estimated that 90% of the data 
 
 ## <i>Enter MS Excel, or any other spreadsheet program.</i>
 
-##One program, many uses
+##  One program, many uses
 
 Consider this, you are planning your wedding and need to track the following items: cost of outfits, venue, music and flowers, whose invitation has been sent and whose is still outstanding, list of gifts received and so on. Or imagine you’re a high school student managing your college applications, keeping track of deadlines, organizing required essays, cataloging extracurricular activities and books read over the past four years, and managing application costs.
 
@@ -35,7 +35,7 @@ With three kids, two businesses and assets across multiple continents, my husban
 
 If you use spreadsheets across different realms of your life, you will begin to notice a change in the way you filter and process data to create information and, over time, knowledge. Spreadsheets encourage structured thinking - they aren’t “forgiving” of missing data and so, you learn over time to ensure you have a full data set (whether using spreadsheet or not) to make decisions. For example, when in a restaurant, you wouldn't pull up a spreadsheet program but, if you’re used to using one, you will mentally compare your options, considering calorie count, price, number of ingredients, and so on. Your order decision will likely be more optimized (i.e., satisfying) than if you had selected an item based on whim or fancy or at random.
 
-##<i>Employability</i>
+## <i>Employability</i>
 
 As the co-founder and leader of a start-up growing at a steady clip, I regularly come across diverse talent and yet I’m still amazed by how many people, especially new college graduates, fear spreadsheets and data. In our recruiting activities, I prioritize candidates who have a portfolio of skills - including Excel - and talents that will empower them to handle a range of situations or be re-deployed as market conditions evolve.
 
