@@ -12,10 +12,8 @@ In the 21st-century employment market, companies are demanding skills that go be
 
 ---
 “According to the World Economic Forum’s Future of Jobs report, nearly half the subject knowledge learned during the first year of a four-year technical degree will be outdated by the time a student graduates, with practical skill-sets also subject to increasing change and disruption. Recruiters are likely to [shift their focus to] ‘soft skills’…. like risk-taking, fairness, curiosity and problem-solving.”
-
-#Trends in graduate recruitment – what to expect in the next 5 years
+<b>Trends in graduate recruitment – what to expect in the next 5 years</b>
 ---
-
 
 While foundational skills are critical to impart in the early years of school, the focus of high school and college educators should also be on developing skills such as problem-solving, collaboration, media literacy, communication, and critical thinking. These kinds of abilities are often best honed through activities beyond the classroom. By combining fact-based education with real-world experience, an individual’s potential can be unlocked, and companies and communities can thrive.
 
@@ -26,7 +24,6 @@ As you embark on your higher education and career journey, there are several way
 ---
 “Internships are paid or unpaid term-based assignments, ideal for undergraduate and graduate students, and young professionals. Sectors in which internships are often offered include banking, consulting, media or technology.”
 <b>Leena Pandit, Canadian Education Expert</b>
-
 ---
 
 <b>Externship. </b>The concept of an externship is most common in the medical, legal or other professional fields, where job shadowing is a key part of early training. Externships are generally unpaid and for briefer periods (e.g., one week or ten days) than internships. Since externs are only observing, they rarely have specific work or projects delegated to them.  
@@ -50,7 +47,6 @@ Apprenticeships are structured, entry-level roles associated with skilled trades
 <b>Libby Sartain, Board Director at Manpower Group, Shutterfly, AARP; former CHRO Yahoo Inc. and Southwest Airlines</b>
 
 “Apprenticeships are a combination of on-the-job and classroom training that result in a trade credential, which proves that you are qualified and certified to work in a skilled trade.”
-
 <b>Leena Pandit, Canadian Education Expert</b>
 ---
 
@@ -68,7 +64,6 @@ Recently, organizations have started offering fellowship programs that are focus
 ---
 “Volunteering is a great way to pursue your interests and hobbies, while also using the time to travel within the country or internationally. These experiences will help shape your perspective and enable you to understand yourself better.
 A volunteer experience can boost your resume and sometimes help you clarify the career path you want to pursue.”
-
 <b>Leena Pandit, Canadian Education Expert</b>
 ---
 
@@ -87,5 +82,5 @@ A volunteer experience can boost your resume and sometimes help you clarify the 
 ---
 Students, recent graduates and even experienced professionals can, and should, access these options at various points in their career development, depending on their goals, financial situation and academic training. If you are still studying, your college or school’s career services office may also maintain a list of employers seeking talent at different levels. And, while many  organizations share information on their websites and on social media networks like LinkedIn, often the best way to create opportunities for yourself is to reach out to your network of contacts – friends, classmates, aunts, uncles, parents’ friends, friends’ parents – and proactively ask about opportunities to gain formal, practical experience. Once you narrow down your choices, pick the option that is most suitable for you, given your existing level of experience and goals, and then jump right in to keep learning.
 
-In our next series of articles, we will discuss networking – what it is, why it’s valuable and how to do it effectively.
+
 
