@@ -10,6 +10,12 @@
 
     {% if page.description %}
     <meta name="description" content="{{ page.description }}" />
+    {% endif %} {% if page.hero %} <meta content="{% if page.hero contains "://" %}{{
+      page.hero
+    }}{% else %}{{
+      page.hero | absolute_url
+    }}{% endif %}" property="og:image"> {% else %}
+    <meta content="/assets/images/logo-beta.png" property="og:image" />
     {% endif %}
 
     <link

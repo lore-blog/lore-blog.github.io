@@ -16,6 +16,12 @@ authors:
     description: Kavita Mehta is a thought leader at the intersection of education, skill-building, technology and impact. Her 25-year career across financial services, digital media and entrepreneurship is firmly grounded in her belief that education is a right, not a privilege. Her focus on mentorship empowers others to magnify impact and increase confidence through a keen awareness of their own potential. She is the founder of Caymus Technology Ventures, co-founder of The Red Pen and author of Acing Admissions, published by HarperCollins.
     image: '/assets/images/authors/kavita-mehta.jpg'
     profile: https://www.linkedin.com/in/kavitamehta01
+  educationdive:
+    name: educationdive
+    display_name: Educationdive
+    description: Education Dive provides news and analysis for higher ed and k-12 leaders. We cover topics like online learning, policy, ed tech,  MOOCs, admissions, blended learning and more.
+    image: '/assets/images/authors/education-dive.svg'
+    profile: https://www.educationdive.com
 
 # Plugins
 plugins:
