@@ -4,7 +4,12 @@
 <div class="col-lg-4 col-md-6 mb-30px card-group">
   <div class="card h-100">
     <div class="maxthumb">
-      <a href="{{ post.url | relative_url }}">
+
+        {% if post.type == 'blog' %}
+        <a href="{{ post.url | relative_url }}">
+        {% endif %} {% if post.type == 'link' %}
+        <a target="_blank" href="{{ post.hyperlink }}">
+        {% endif %}
         {% if post.thumbnail %} <img class="img-fluid" src="{% if post.thumbnail contains "://" %}{{ post.thumbnail }}{% else %}{{ post.thumbnail | relative_url }}{% endif %}" alt="{{ post.title }}">
         {% endif %}
       </a>

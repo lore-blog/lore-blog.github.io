@@ -143,7 +143,13 @@ section.recent-posts {
 .post-top-meta .author-thumb {
   width: 110px;
   height: 110px;
+  margin: 0 auto;
 }
+.post-top-meta .author-container {
+  display: flex;
+  align-items: center;
+}
+
 .post-top-meta.authorpage .author-thumb {
   margin-top: 40px;
 }
