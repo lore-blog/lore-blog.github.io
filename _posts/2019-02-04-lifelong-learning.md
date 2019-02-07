@@ -34,11 +34,7 @@ It is just as important to upskill in your area of expertise. If you are an acco
 
 Another way to keep your knowledge fresh is by taking online courses. Platforms such as Coursera and EdX offer high quality university-created classes, delivered right to your laptop, usually on a flexible schedule. Since these courses are current and include the latest research and data, they represent your best opportunity for continuous learning. Below is an excerpt from the EdX website:
 
----
-
-### _An estimated 27 percent of women who hold engineering and computer sciences degrees have left their professions, most commonly to care for family. According to the STEM Re-entry Task Force, bringing technical workers back into the fold could be an effective pressure relief valve for the current talent shortages in engineering and science. Online learning can be regarded as a meaningful credential for professionals returning to the workforce after a career break, and a great opportunity for serious updating._
-
----
+**An estimated 27 percent of women who hold engineering and computer sciences degrees have left their professions, most commonly to care for family. According to the STEM Re-entry Task Force, bringing technical workers back into the fold could be an effective pressure relief valve for the current talent shortages in engineering and science. Online learning can be regarded as a meaningful credential for professionals returning to the workforce after a career break, and a great opportunity for serious updating.**
 
 Beyond the big names, there are many platforms that have niche offerings. Try MasterClass, Simplilearn, Upgrad or find new options on online course discovery platform Lore.online.
 
