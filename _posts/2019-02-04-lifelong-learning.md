@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 'Lifelong learning'
 author: kavita
@@ -8,7 +8,7 @@ featured: true
 type: blog
 ---
 
-Like many women, I have multiple identities - I am a professional, mother, wife, daughter, and sister. Each of these identities is important, and, over the last two decades, I have learned to juggle the different priorities each role demands. From Wall Street to Silicon Valley and Philadelphia to Mumbai, there have been daunting challenges, but nothing seemed impossible, as long as I invested in myself.
+I have multiple identities - I am a professional, mother, wife, daughter, and sister. Each of these identities is important, and, over the last two decades, I have learned to juggle the different priorities each role demands. From Wall Street to Silicon Valley and Philadelphia to Mumbai, there have been daunting challenges, but nothing seemed impossible, as long as I invested in myself.
 
 Embracing lifelong learning (even before I knew that was a ‘thing’!) has helped me manage so much: survive the terrible two’s, succeed in a corporate career, launch two businesses and nurture my children for an unpredictable future. Through personal examples, below I outline how other women can leverage avenues for learning to create value for a range of stakeholders.
 
