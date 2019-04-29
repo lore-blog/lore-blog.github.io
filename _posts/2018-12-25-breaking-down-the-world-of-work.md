@@ -2,8 +2,8 @@
 layout: post
 title: 'Breaking Down the World of Work'
 author: kavita
-hero: https://theredpen.in/wp-content/uploads/2018/12/Different-Types-of-Work-Experience01.png
-thumbnail: https://theredpen.in/wp-content/uploads/2018/12/Different-Types-of-Work-Experience01.png
+hero: assets/images/articles/different-types-of-work-experience.png
+thumbnail: assets/images/articles/different-types-of-work-experience.png
 featured: false
 type: blog
 ---
@@ -30,7 +30,7 @@ As you embark on your higher education and career journey, there are several way
 
 ---
 
-<b>Externship. </b>The concept of an externship is most common in the medical, legal or other professional fields, where job shadowing is a key part of early training. Externships are generally unpaid and for briefer periods (e.g., one week or ten days) than internships. Since externs are only observing, they rarely have specific work or projects delegated to them.  
+<b>Externship. </b>The concept of an externship is most common in the medical, legal or other professional fields, where job shadowing is a key part of early training. Externships are generally unpaid and for briefer periods (e.g., one week or ten days) than internships. Since externs are only observing, they rarely have specific work or projects delegated to them.
 
 ---
 
@@ -60,7 +60,7 @@ Apprenticeships are structured, entry-level roles associated with skilled trades
 
 ---
 
-<b>Fellowship.</b> Traditionally, ‘fellows’ are highly-trained academics who have distinguished positions within a university setting, or are well-regarded experts within an industry. Fellows work on specific projects within an organization and are often sponsored.  
+<b>Fellowship.</b> Traditionally, ‘fellows’ are highly-trained academics who have distinguished positions within a university setting, or are well-regarded experts within an industry. Fellows work on specific projects within an organization and are often sponsored.
 
 Recently, organizations have started offering fellowship programs that are focused on intensive professional development in a particular field. For example, The Young India Fellowship (YIF), is a one-year residential multi-disciplinary postgraduate programme that provides liberal arts education with a focus on experiential learning. Indian citizens under the age of 29 with an undergraduate or a postgraduate degree are eligible to apply for this highly selective fellowship.
 
@@ -99,7 +99,4 @@ A volunteer experience can boost your resume and sometimes help you clarify the 
 
 ---
 
-Students, recent graduates and even experienced professionals can, and should, access these options at various points in their career development, depending on their goals, financial situation and academic training. If you are still studying, your college or school’s career services office may also maintain a list of employers seeking talent at different levels. And, while many  organizations share information on their websites and on social media networks like LinkedIn, often the best way to create opportunities for yourself is to reach out to your network of contacts – friends, classmates, aunts, uncles, parents’ friends, friends’ parents – and proactively ask about opportunities to gain formal, practical experience. Once you narrow down your choices, pick the option that is most suitable for you, given your existing level of experience and goals, and then jump right in to keep learning.
-
-
-
+Students, recent graduates and even experienced professionals can, and should, access these options at various points in their career development, depending on their goals, financial situation and academic training. If you are still studying, your college or school’s career services office may also maintain a list of employers seeking talent at different levels. And, while many organizations share information on their websites and on social media networks like LinkedIn, often the best way to create opportunities for yourself is to reach out to your network of contacts – friends, classmates, aunts, uncles, parents’ friends, friends’ parents – and proactively ask about opportunities to gain formal, practical experience. Once you narrow down your choices, pick the option that is most suitable for you, given your existing level of experience and goals, and then jump right in to keep learning.
