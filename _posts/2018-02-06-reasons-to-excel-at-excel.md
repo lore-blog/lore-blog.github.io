@@ -2,8 +2,8 @@
 layout: post
 title: 'Reasons to excel at Excel....or any other spreadsheet program'
 author: kavita
-hero: https://media.licdn.com/media/gcrc/dms/image/C4E12AQG-c6qAy2M37A/article-cover_image-shrink_423_752/0?e=1554940800&v=beta&t=8MOEELz2bMQUAZoO14AKcgirmdJgvRGtZrL6vyY-xDM
-thumbnail: https://media.licdn.com/media/gcrc/dms/image/C4E12AQG-c6qAy2M37A/article-cover_image-shrink_423_752/0?e=1554940800&v=beta&t=8MOEELz2bMQUAZoO14AKcgirmdJgvRGtZrL6vyY-xDM
+hero: assets/images/articles/reason-to-excel.jpg
+thumbnail: assets/images/articles/reason-to-excel.jpg
 featured: false
 type: blog
 ---
@@ -16,10 +16,9 @@ The reason is…data. It is all around us. It is estimated that 90% of the data 
 
 ## <i>Enter MS Excel, or any other spreadsheet program.</i>
 
-##  One program, many uses
+## One program, many uses
 
 Consider this, you are planning your wedding and need to track the following items: cost of outfits, venue, music and flowers, whose invitation has been sent and whose is still outstanding, list of gifts received and so on. Or imagine you’re a high school student managing your college applications, keeping track of deadlines, organizing required essays, cataloging extracurricular activities and books read over the past four years, and managing application costs.
-
 
 In either scenario, yes, you could manage, using a notebook and hope you don’t lose it, and all your precious, time-sensitive, carefully curated data. Or you could create and maintain a spreadsheet to record the data, store it in the cloud, and have updated information available anywhere you go, with virtually zero risk of loss. You can tally total costs, sort your college list by due dates, apply a filter for wedding invitation status or even create a pivot table to cross-tabulate your personal badminton record from middle school onwards. And then, when it’s time for your sister’s wedding or cousin’s applications, you can hand your file over, giving the next person a jumpstart on the whole process. That way, you aren’t just compiling data for a discrete event, you are creating a system, a footprint, for someone else to follow.
 

@@ -2,8 +2,8 @@
 layout: post
 title: '#beboldforchange is not just a hashtag, but a beacon for women in India'
 author: kavita
-hero: https://media.licdn.com/media/gcrc/dms/image/C4E12AQFieAyld4Rtcg/article-cover_image-shrink_720_1280/0?e=1554940800&v=beta&t=RACkWZHklu1deEhYU6d0HUPkqEAIUUBiqisj7AeOgfA
-thumbnail: https://media.licdn.com/media/gcrc/dms/image/C4E12AQFieAyld4Rtcg/article-cover_image-shrink_720_1280/0?e=1554940800&v=beta&t=RACkWZHklu1deEhYU6d0HUPkqEAIUUBiqisj7AeOgfA
+hero: assets/images/articles/beboldforchange.jpg
+thumbnail: assets/images/articles/beboldforchange.jpg
 hyperlink: https://www.linkedin.com/pulse/beboldforchange-just-hashtag-beacon-women-india-kavita-mehta/
 featured: false
 type: blog
