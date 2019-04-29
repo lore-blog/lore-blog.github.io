@@ -2,15 +2,15 @@
 layout: post
 title: 'What you study is not (necessarily) what you do'
 author: kavita
-hero: https://media.licdn.com/media/gcrc/dms/image/C5112AQFvaFxHbqjoJw/article-cover_image-shrink_720_1280/0?e=1554940800&v=beta&t=nS8G8BBB2Vb23JeepryewuLV_MoSkT22HgvoOiZj4vQ
-thumbnail: https://media.licdn.com/media/gcrc/dms/image/C5112AQFvaFxHbqjoJw/article-cover_image-shrink_720_1280/0?e=1554940800&v=beta&t=nS8G8BBB2Vb23JeepryewuLV_MoSkT22HgvoOiZj4vQ
+hero: assets/images/articles/what-you-study.jpg
+thumbnail: assets/images/articles/what-you-study.jpg
 featured: true
 type: blog
 ---
 
 In India, the concepts of “higher education” and “career planning” are often conflated. Parents think of higher education choices as determinants of a child’s future career, expecting a clear and direct connection between what their child will study and what his or her career will be.
 
-This logic has worked and may continue to work for students who want to pursue careers in medicine and law; after all, who wants to engage a lawyer who didn’t go to law school or a doctor who doesn’t have a medical degree? Today, however, most higher education choices rarely result in a career directly related to a major, or undergraduate degree focus area. For example, not all IIT graduates work as engineers and not all economics majors work as economists. And even if you attended law school, there is no ‘rule’ that you must work as a lawyer. The main point of education, both formal and informal, is to develop critical thinking and skills that can be used in any future career. 
+This logic has worked and may continue to work for students who want to pursue careers in medicine and law; after all, who wants to engage a lawyer who didn’t go to law school or a doctor who doesn’t have a medical degree? Today, however, most higher education choices rarely result in a career directly related to a major, or undergraduate degree focus area. For example, not all IIT graduates work as engineers and not all economics majors work as economists. And even if you attended law school, there is no ‘rule’ that you must work as a lawyer. The main point of education, both formal and informal, is to develop critical thinking and skills that can be used in any future career.
 
 Moreover, it is important to understand that the global and local employment landscapes are changing swiftly; as conventional business models are upended, new jobs are emerging, and the pace of change is exponentially fast. Jobs are fluid, requiring multiple skills; a singular focus or ability is no longer adequate for a career that may span 40+ years. Since no one can say with certainty what the careers or jobs of the future will look like, developing foundational skills, rather than acquiring content, is key to remaining employable. <b>This means that, practically speaking, studying any subject in university can serve as a platform to access a range of careers.</b>
 
@@ -30,7 +30,6 @@ Further, many students major in STEM or technical subjects but end up pursuing c
 
 Encouraging children to have a broad-based education in high school across subjects that are “core” - mathematics, English, science, history and foreign languages - puts them in good stead to pursue whatever they want in university and beyond.
 
-
 ## <u> Psychometric tests do not have all the answers</u>
 
 In India, we tend to test for everything. From board examinations, to music, dance and art; the ultimate recognition is through an examination that validates ability and competence. While this seems logical, it can dilute a child’s true passion or interest. Sometimes a young person might just want to play the piano, learn hip hop or paint on a canvas without seeking anyone’s approval. This idea is alien to many parents, especially those who maintain and carry folders to certificates to prove how accomplished their child is.
@@ -49,6 +48,6 @@ Justin Tobin, founder of the innovation consultancy DDG, recently told The Guard
 
 We see this in practice every day. We know of a professional colleague who is also the owner of a thriving salon business and another has invested in a bakery, supporting his friends in their passions while creating a diversified income stream for his family. Service-focused industries such as advertising and management consulting draw upon the experiences of creative individuals such as novelists, anthropologists, photographers, designers and technologists in addition to data-and-information-focused engineers, accountants and lawyers. The diverse successes and failures of these individuals inform their effectiveness when collaborating with others to develop innovative solutions.
 
-When an individual has the opportunity to indulge in a range of interests, their creativity and satisfaction soar. And that’s when their best work and efforts materialize. 
+When an individual has the opportunity to indulge in a range of interests, their creativity and satisfaction soar. And that’s when their best work and efforts materialize.
 
 <i>Note: A condensed version of this article was released to IANS on August 26, 2018 and was subsequently reprinted in several regional publications.</i>

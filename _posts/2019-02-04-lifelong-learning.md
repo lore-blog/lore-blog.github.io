@@ -2,8 +2,8 @@
 layout: post
 title: 'Lifelong learning'
 author: kavita
-hero: assets/images/lifelong-learning-full.png
-thumbnail: assets/images/lifelong-learning-thumb.png
+hero: assets/images/articles/lifelong-learning-full.png
+thumbnail: assets/images/articles/lifelong-learning-thumb.png
 featured: true
 type: blog
 ---
