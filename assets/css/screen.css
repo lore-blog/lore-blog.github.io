@@ -71,6 +71,10 @@ section.recent-posts {
   list-style: disc;
   margin-bottom: 0rem;
 }
+.img-center {
+  display: block;
+  margin: 0 auto;
+}
 @media (min-width: 576px) {
   .card-columns.listfeaturedtag {
     -webkit-column-count: 2;
@@ -277,6 +281,7 @@ blockquote {
 }
 .featured-image {
   display: block;
+  margin: 0 auto;
   margin-bottom: 1.5rem;
 }
 .share {
