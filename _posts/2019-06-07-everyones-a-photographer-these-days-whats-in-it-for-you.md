@@ -2,6 +2,7 @@
 layout: post
 title: "Everyone's a photographer these days – what's in it for you as a career?"
 hero: assets/images/articles/everyones-photographer.jpg
+author: kavita-namita
 thumbnail: assets/images/articles/everyones-photographer.jpg
 featured: true
 type: blog
