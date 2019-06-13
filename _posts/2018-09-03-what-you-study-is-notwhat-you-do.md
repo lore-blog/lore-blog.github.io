@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'What you study is not (necessarily) what you do'
-author: kavita
+author: kavita-namita
 hero: assets/images/articles/what-you-study.jpg
 thumbnail: assets/images/articles/what-you-study.jpg
 featured: false
