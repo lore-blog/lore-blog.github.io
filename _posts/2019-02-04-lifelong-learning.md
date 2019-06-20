@@ -4,7 +4,7 @@ title: 'Lifelong learning'
 author: kavita
 hero: assets/images/articles/lifelong-learning-full.png
 thumbnail: assets/images/articles/lifelong-learning-thumb.png
-featured: true
+featured: false
 type: blog
 ---
 
