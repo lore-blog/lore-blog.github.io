@@ -33,13 +33,13 @@ As you embark on your higher education and career journey, there are several way
 <b>Cooperative Education (“Co-op”)</b>. Co-ops are multi-term work programmes built into a university curriculum, designed to help students gain hands-on experience in a particular specialization. Co-ops are common in industries like engineering, healthcare, and business, wherein the student studies one term and works the next and continues to alternate this theory-application framework for the duration of their studies. Since the work component is a required part of the graduation requirements, students earn credit for their co-op terms. If lucky, they may also be paid.
 
 “Through co-ops, students work a semester at a time and then return to school, where they get course credit for their work. Generally, in a co-op-based programme, it can take five to six years (as opposed to the usual four) to complete undergraduate studies. On the flip side, students in such programs have great work experience and can command higher pay when they graduate.”
-<span>_Libby Sartain_, **Board Director at Manpower Group, Shutterfly, AARP; former CHRO Yahoo Inc. and Southwest Airlines**</span>{:class="text-center d-block"}
+<span>_Libby Sartain_, **Board Director at Manpower Group, Shutterfly, AARP;<br/>former CHRO Yahoo Inc. and Southwest Airlines**</span>{:class="text-center d-block"}
 {:class="highlight"}
 
 <b>Apprenticeships.</b> These are training periods undertaken by those entering a skilled trade such as carpentry, welding, or artistry, and with tradespersons such as electricians, plumbers and beauticians. Apprenticeships are often part of licensed vocational education and technical training programmes that include classroom instruction and practical application. In many European countries, students enter formal apprenticeship programs at age 18 and train for between one and four years, depending on the level of the program, the apprentice’s ability and the industry sector. Apprenticeships are paid, but the amount is minimal.
 
-Apprenticeships are structured, entry-level roles associated with skilled trades, which do not require college, but do require training, education, and licensing.”
-<span>_Libby Sartain_, **Board Director at Manpower Group, Shutterfly, AARP; former CHRO Yahoo Inc. and Southwest Airlines**</span>{:class="text-center d-block"}
+“Apprenticeships are structured, entry-level roles associated with skilled trades, which do not require college, but do require training, education, and licensing.”
+<span>_Libby Sartain_, **Board Director at Manpower Group, Shutterfly, AARP;<br/>former CHRO Yahoo Inc. and Southwest Airlines**</span>{:class="text-center d-block"}
 <br/>“Apprenticeships are a combination of on-the-job and classroom training that result in a trade credential, which proves that you are qualified and certified to work in a skilled trade.”
 <span>_Leena Pandit_, **Canadian Education Expert**</span>{:class="text-center d-block"}
 {:class="highlight"}
