@@ -310,6 +310,20 @@ blockquote {
 .svgIcon {
   vertical-align: middle;
 }
+
+.img-caption {
+  display: flex;
+}
+
+.img-caption img {
+  margin-right: 50px;
+}
+
+.caption-text {
+  font-weight: 400;
+  font-size: 14px;
+}
+
 @media (min-width: 1024px) {
   .share {
     position: fixed;
@@ -633,6 +647,10 @@ iframe {
   background: rgba(0, 0, 0, 0.75);
   color: #fff;
 }
+.card .img-fluid {
+  width: 100%;
+}
+
 @media (min-width: 768px) {
   .jumbotron.fortags {
     margin-bottom: -50px;
@@ -708,7 +726,20 @@ iframe {
   .share {
     margin-top: 30px;
   }
-}
-.card .img-fluid {
-  width: 100%;
+
+  .img-caption {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .img-caption img {
+    width: 74%;
+    margin: 0 auto;
+    margin-bottom: 25px;
+  }
+
+  .caption-text {
+    font-weight: 400;
+    font-size: 14px;
+  }
 }

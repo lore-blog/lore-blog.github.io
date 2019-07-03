@@ -8,6 +8,8 @@ featured: false
 type: blog
 ---
 
+<span class="d-block text-center">Caption for woman at computer: Photo by [bruce mars](https://www.pexels.com/@olly?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/photo/photo-of-a-woman-thinking-941555/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)</span>
+
 Parents and students in India place an enormous amount of importance on school marks and grades, which are primarily driven by year-end exams. The pressure to ‘perform’ on these exams is not only prevalent amongst high school students preparing for national level exams, but also increasingly experienced by students who are in elementary or middle school. This is something I noticed when my twin daughters, who are in the sixth grade, opted to stay at home to study for their final exams rather than attend a family wedding. Getting good grades has always been important and the central focus of school life for most students, as the hopes and dreams of the family, and sometimes the entire community, are placed on the child, especially amongst the middle class. In recent years, however, this focus has turned to mania.
 
 The 553,000 Indian students enrolled in educational institutions in locations as diverse as the US, Canada, UK, Australia, Germany, The Netherlands, Abu Dhabi and Singapore represent a tremendous economic and cultural opportunity for destination countries. Understanding India’s socio-cultural landscape, including the factors that contribute to exam mania - and the associated trickle-down effect on tutoring, extracurricular choices and self-awareness - can help recruitment and admissions representatives with marketing and enrollment efforts and independent education consultants in advising applicants.
@@ -29,6 +31,8 @@ What’s clear though is that the stakes are high because Indian education has a
 ## 3. Low acceptance rates
 
 According to a 2016-2017 government report, there are approximately 864 universities and 40,026 colleges in India. But, since only about 100 universities are considered to be of high quality, options are limited, especially when considering the country’s immense population. India’s youth population is one of the largest in the world - estimated at 356 million in the 10 to 24 year age range. This, coupled with a growing middle class, puts pressure on the limited institutions that offer quality education and the associated admissions rates. The Indian Institutes of Technology, for example, have an acceptance rate that is less than 2 percent; roughly 9,600 seats for over 500,000 entrance exam test takers. Universities are working to curb this problem, with new institutions being established and more seats being added to existing programs. For example, in Mumbai in 2017, there were 13,808 more places available across 39 new colleges as compared to the previous year. This is, however, still not enough to meet the demand, leading students to consider opportunities abroad.
+
+![low-acceptance-rates](/assets/images/articles/adult-blur-books-full.jpg){:class="img-center"}
 
 ## 4. Tutors and talent
 

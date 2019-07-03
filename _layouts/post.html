@@ -13,26 +13,9 @@ post_class: post-template
         {% assign author = site.authors[page.author] %}
         
 		<div class="col-md-12 flex-first flex-md-unordered">
-			<div class="mainheading">
-
-                <!-- Author Box -->
-                {% if page.author %}				
-				<div class="row post-top-meta">
-					<div class="col-md-2 author-container">
-                        {% if author.image %}
-						<img class="author-thumb" src="{{ author.image }}" alt="{{ author.display_name }}">
-                        {% endif %}
-					</div>
-					<div class="col-md-10">
-						<a target="_blank" class="link-dark" href="{{ author.profile }}">{{ author.display_name }}</a>
-						<span class="author-description">{{ author.description }}</span>						
-					</div>
-				</div>				
-                {% endif %}
-                
+			<div class="mainheading">              
                 <!-- Post Title -->
 				<h1 class="posttitle">{{ page.title }}</h1> 
-                
 			</div>
 
 			<!-- Post Featured Image -->
@@ -53,10 +36,27 @@ post_class: post-template
                 {% endif %}
                 </small>
             </p>
-            
+
+
+
             <div class="sharethis-widget">
                 <div class="sharethis-inline-share-buttons"></div>
             </div>
+            <hr/>
+            <!-- Author Box -->
+            {% if page.author %}				
+            <div class="row post-top-meta">
+                <div class="col-md-2 author-container">
+                    {% if author.image %}
+                    <img class="author-thumb" src="{{ author.image }}" alt="{{ author.display_name }}">
+                    {% endif %}
+                </div>
+                <div class="col-md-10">
+                    <a target="_blank" class="link-dark" href="{{ author.profile }}">{{ author.display_name }}</a>
+                    <span class="author-description">{{ author.description }}</span>						
+                </div>
+            </div>				
+            {% endif %}
             
             <!-- Prev/Next -->
             <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
