@@ -2,8 +2,8 @@
 name: 'The Lore Blog'
 description: 'The global education and learning blog #LearningNeverEnds'
 meta_description: 'The global education and learning blog #LearningNeverEnds'
-logo: 'assets/images/logo-beta.png'
-favicon: 'assets/images/logo-beta.png'
+logo: 'assets/images/lore-logo.svg'
+favicon: 'assets/images/lore-logo.svg'
 google_analytics: 'UA-124640434-3'
 lore_url: 'https://lore.online'
 
