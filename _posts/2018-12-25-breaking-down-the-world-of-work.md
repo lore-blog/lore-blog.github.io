@@ -2,8 +2,8 @@
 layout: post
 title: 'Breaking Down the World of Work'
 author: kavita
-hero: assets/images/articles/different-types-of-work-experience.png
-thumbnail: assets/images/articles/different-types-of-work-experience.png
+hero: /assets/images/articles/different-types-of-work-experience.png
+thumbnail: /assets/images/articles/different-types-of-work-experience.png
 featured: false
 type: blog
 ---
