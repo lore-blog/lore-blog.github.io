@@ -75,6 +75,10 @@ section.recent-posts {
   display: block;
   margin: 0 auto;
 }
+.card-group .photo-credits {
+  display: none;
+}
+
 @media (min-width: 576px) {
   .card-columns.listfeaturedtag {
     -webkit-column-count: 2;
