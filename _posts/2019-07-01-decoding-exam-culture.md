@@ -2,15 +2,15 @@
 layout: post
 title: 'Decoding exam culture in India'
 author: kavita
-hero: /assets/images/articles/blur-businesswoman-caucasian.jpg
 thumbnail: /assets/images/articles/adult-blur-books.jpg
 featured: false
 type: blog
 ---
 
-<span class="d-block text-center">Photo by [bruce mars](https://www.pexels.com/@olly?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/photo/photo-of-a-woman-thinking-941555/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)</span>
-
 Parents and students in India place an enormous amount of importance on school marks and grades, which are primarily driven by year-end exams. The pressure to ‘perform’ on these exams is not only prevalent amongst high school students preparing for national level exams, but also increasingly experienced by students who are in elementary or middle school. This is something I noticed when my twin daughters, who are in the sixth grade, opted to stay at home to study for their final exams rather than attend a family wedding. Getting good grades has always been important and the central focus of school life for most students, as the hopes and dreams of the family, and sometimes the entire community, are placed on the child, especially amongst the middle class. In recent years, however, this focus has turned to mania.
+
+![decoding-exam-culture-in-india-hero](/assets/images/articles/blur-businesswoman-caucasian.jpg){:class="img-center"}
+<span class="d-block text-center photo-credits">Photo by [bruce mars](https://www.pexels.com/@olly?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/photo/photo-of-a-woman-thinking-941555/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)</span>
 
 The 553,000 Indian students enrolled in educational institutions in locations as diverse as the US, Canada, UK, Australia, Germany, The Netherlands, Abu Dhabi and Singapore represent a tremendous economic and cultural opportunity for destination countries. Understanding India’s socio-cultural landscape, including the factors that contribute to exam mania - and the associated trickle-down effect on tutoring, extracurricular choices and self-awareness - can help recruitment and admissions representatives with marketing and enrollment efforts and independent education consultants in advising applicants.
 

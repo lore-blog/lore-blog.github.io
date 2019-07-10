@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gone Are The Days Of One And Done'
+title: 'Gone are the days of one and done'
 author: kavita
 thumbnail: assets/images/articles/thumbs/gone-are-the-days.png
 featured: true
