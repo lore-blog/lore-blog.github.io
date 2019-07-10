@@ -25,6 +25,7 @@ Firstly, let us enlist the skills required for both professions and see the diff
 | Ability to communicate with both technical and non-technical individuals | Ability to manage individual preferences within a single team or family |
 | Knowledge of history, cultural and environmental concerns | Knowledge of styles and trends, both current and historical |
 
+<br/>
 Surely, you noticed the similarities before you could point out the differences. However, the rationale and depth of expertise behind each skill is where the difference lies. And that is what will shape the ways in which you gain practical experience for a solid future.
 
 ## Architect vs. Interior Designer – what’s the difference?
@@ -39,7 +40,9 @@ Architects are tasked with creating a structure with the dual purpose of being f
 
 ---
 
-## _The National Council of Architectural Registration Boards defines architects as "licensed professionals trained in the art and science of the design and construction of buildings and structures that primarily provide shelter. An architect will create the overall aesthetic and look of buildings and structures, but buildings also must be functional, safe, and economical and must suit the specific needs of the people who use them."_
+_The National Council of Architectural Registration Boards defines architects as "licensed professionals trained in the art and science of the design and construction of buildings and structures that primarily provide shelter. An architect will create the overall aesthetic and look of buildings and structures, but buildings also must be functional, safe, and economical and must suit the specific needs of the people who use them."_
+
+---
 
 **Interior designers**, on the other hand, artistically design the ambience and utility of an interior space based on human psychology and emotional aspects. They too travel to the site to study, plan and implement designs for the interiors. This specialization demands a flair for working with different kinds people in different circumstances; projects run on a tighter time frame, often making client, contractor and designer interface intense.
 
@@ -75,4 +78,6 @@ Now that you are aware of the differences between an architect and an interior d
 
 ---
 
-## _Maithili Raut, a partner with Red Architects in Mumbai, contributed to this article. Maithili’s 15+ years of experience ranges from museum and institutional design to interior design for retail stores, offices and residences to redevelopment of heritage structures_
+_Maithili Raut, a partner with Red Architects in Mumbai, contributed to this article. Maithili’s 15+ years of experience ranges from museum and institutional design to interior design for retail stores, offices and residences to redevelopment of heritage structures_
+
+---
