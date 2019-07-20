@@ -46,5 +46,3 @@ Over time, technical skills alone will not be enough to take you to the next lev
 While the above-mentioned points can serve as a roadmap for personal and professional growth, it is also imperative to manage the pressures of your job ethically and within regulatory norms. You may find yourself in situations where you may be expected to reach financial outcomes at the risk of compromising financial reporting rules. It is at times like these when you have to rise above and practice professionalism rather than simply completing an assigned task. Your sound judgement will directly affect the faith entrusted by the public in the organisation.
 
 The road from good to great may seem difficult but it’s surely not impossible. If you are willing to constantly push yourself, [never stop learning](https://blog.lore.online/2019/07/02/gone-are-the-days-part2.html) and practice your profession with integrity, you will soon reap the benefits of your hard-work and dedication.
-
-![Gone-are-the-days-of-one-and-one-image7](https://miro.medium.com/max/700/1*NFsAIdbqSXgcCsRjAcBWTQ.jpeg){:class="img-center"}
