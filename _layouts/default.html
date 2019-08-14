@@ -5,11 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.ico" />
     <title>{{ page.title }} | {{ site.name }}</title>
+    <meta property="og:title" content="{{ page.title }} | {{ site.name }}" />
+    <meta property="og:image" content="/assets/images/authors/kavita-mehta.jpg" />
 
+    <meta property="og:site_name" content="blog.lore" />
+    <meta property="og:type" content="website" />
     {% if page.description %}
     <meta name="description" content="{{ page.description }}" />
+    <meta name="og:description" content="{{ page.description }}" />
     {% elsif site.description %}
     <meta name="description" content="{{ site.description }}" />
+    <meta name="og:description" content="{{ page.description }}" />
     {% endif %} {% if page.hero %} <meta content="{% if page.hero contains "://" %}{{
       page.hero
     }}{% else %}{{
