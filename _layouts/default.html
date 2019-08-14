@@ -16,12 +16,6 @@
     {% elsif site.description %}
     <meta name="description" content="{{ site.description }}" />
     <meta name="og:description" content="{{ page.description }}" />
-    {% endif %} {% if page.hero %} <meta content="{% if page.hero contains "://" %}{{
-      page.hero
-    }}{% else %}{{
-      page.hero | absolute_url
-    }}{% endif %}" property="og:image"> {% else %}
-    <meta content="/assets/images/lore-logo.svg" property="og:image" />
     {% endif %}
 
     <link
