@@ -247,7 +247,8 @@ span.post-read-more a:hover {
 }
 .mainheading h1.sitetitle {
   color: #1e1f40;
-  font-family: Righteous;
+  font-family: 'Heebo', sans-serif;
+  font-weight: bold;
 }
 .mainheading h1.posttitle {
   font-weight: 700;
