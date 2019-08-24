@@ -15,11 +15,11 @@
     {% elsif site.description %}
     <meta name="description" content="{{ site.description }}" />
     <meta name="og:description" content="{{ site.description }}" />
-    {% endif %} {% if page.thumbnail %} <meta content="{% if page.thumbnail contains "://" %}{{
+    {% endif %} {% if page.thumbnail %} <meta property="og:image" content="{% if page.thumbnail contains "://" %}{{
       page.thumbnail
     }}{% else %}{{
       page.thumbnail | absolute_url
-    }}{% endif %}" property="og:image"> {% else %}
+    }}{% endif %}"> {% else %}
     <meta property="og:image" content="//blog.lore.online/assets/images/authors/kavita-mehta.jpg" />
     {% endif %}
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous" />
