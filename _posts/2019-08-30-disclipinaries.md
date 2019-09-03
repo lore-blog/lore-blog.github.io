@@ -7,7 +7,7 @@ featured: false
 type: blog
 ---
 
-Great question, and for budding college students, or established academics working in any field, there are important distinctions to make amongst the terms intra-, multi-, cross-, inter- and trans-disciplinary. It is valuable to evaluate these differences because [<span>**what** you study is not necessarily the only thing you will or can do in your professional life</span>](/2018/09/03/what-you-study-is-notwhat-you-do.html); it’s great to identify the different ways in which subjects and topics meet and meld.
+Great question, and for budding college students, or established academics working in any field, there are important distinctions to make amongst the terms intra-, multi-, cross-, inter- and trans-disciplinary. It is valuable to evaluate these differences because [<span>**what** you study is not necessarily the only thing you will or can do in your professional life</span>](/2018/09/03/what-you-study-is-notwhat-you-do.html){:target="\_blank"}; it’s great to identify the different ways in which subjects and topics meet and meld.
 
 Before we dive into nuances and intricacies, let’s define discipline:
 
@@ -17,7 +17,7 @@ Before we dive into nuances and intricacies, let’s define discipline:
 2. A particular area of study, especially a subject of study in a college or university.
 3. A branch of knowledge, taught and researched as part of higher education.
 
-While the concept of “discipline” has traditionally been used to describe distinct academic specializations, it is important to understand that the nature, breadth, depth, extent and duration of interactions amongst these specializations can ebb and flow over time. It is these interfaces and integrations that sit at the core of innovation, progress, and eventually, [professional options](/2019/06/18/gone-are-the-days-of-one-and-done.html) in the future.
+While the concept of “discipline” has traditionally been used to describe distinct academic specializations, it is important to understand that the nature, breadth, depth, extent and duration of interactions amongst these specializations can ebb and flow over time. It is these interfaces and integrations that sit at the core of innovation, progress, and eventually, [professional options](/2019/06/18/gone-are-the-days-of-one-and-done.html){:target="\_blank"} in the future.
 
 To begin our exploration, it’s important to recognize that the central questions we need to answer involves **intent** - where are you starting from and what is your end goal?
 
