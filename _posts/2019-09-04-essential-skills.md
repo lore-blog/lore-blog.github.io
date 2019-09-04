@@ -7,13 +7,13 @@ featured: false
 type: blog
 ---
 
-_“When we think we know, we cease to learn.” - Dr. Sarvepalli Radhakrishnan_
+_“When we think we know, we cease to learn.” - Dr. Sarvepalli Radhakrishnan_{:class="text-center d-block"}
 
 Teaching is one of the world’s most unique professions. As a teacher, you touch and shape countless lives, each of which is in a different stage of learning and growing. What you teach your students impacts them throughout their lives. That's why, in addition to being knowledgeable, you need to be able to plan and execute your teaching strategy. And to do that, you must have the right skills and the right tools. A recent [study](https://www.livemint.com/opinion/columns/opinion-spotlight-needed-on-training-teachers-in-india-1550593843379.html){:target="\_blank"} pointed out that 45% of Indian teachers lack adequate training. Only 25% taught via the activity-based learning method while barely 33% use storytelling techniques.
 
 A teacher’s quality of instruction shapes a student’s quality of learning. Therefore, armed with relevant interpersonal skills, this journey could prove to be successful.
 
-**Know How to Communicate**
+**Know How to Communicate**<br>
 Before being able to communicate with your students, having a deeper understanding of the subject should be your foremost priority. Thereafter, communicating what your area of expertise becomes your next, crucial step. Your communications skills will play an important role in passing along knowledge of any particular subject to a student.
 
 There are a number of learning options to help improve communication skills. If you wish to bridge a communication skill gap, click [here](https://lore.online/personalize){:target="\_blank"}. The ability to communicate well makes the teaching process easier and helps students gain a better understanding of the subjects and topics taught.
