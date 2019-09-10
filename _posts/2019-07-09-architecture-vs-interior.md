@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Architecture vs. Interior Design - Which one is right one for you?'
+title: 'Architecture vs. Interior Design - Which one is the right one for you?'
 hero: /assets/images/articles/architecture-hero.png
 thumbnail: /assets/images/articles/thumbs/architecture-thumb.png
 featured: false
