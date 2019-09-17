@@ -2,4 +2,4 @@
 limit: 10
 ---
 
-[{% for post in site.posts limit: page.limit %}{"title": "{{ post.title }}", "thumbnail": "{% if post.thumbnail contains "://" %}{{ post.thumbnail }}{% else %}https://blog.lore.online{{ post.thumbnail | relative_url }}{% endif %}","url": "https://blog.lore.online{{ post.url }}", "date": "{{ post.date | date_to_string }}","author": {"name": "{{ site.authors[post.author].display_name }}", "picture": "{% if site.authors[post.author].image %}https://blog.lore.online{{ site.authors[post.author].image }}{% endif %}"}}{% unless forloop.last %},{% endunless %}{% endfor %}]
+[{% for post in site.posts limit: page.limit %}{"author": "{{ site.authors[post.author].display_name }}","title": "{{ post.title }}", "image": "{% if post.thumbnail contains "://" %}{{ post.thumbnail }}{% else %}https://blog.lore.online{{ post.thumbnail | relative_url }}{% endif %}","url": "https://blog.lore.online{{ post.url }}", "date": "{{ post.date | date_to_string }}"}{% unless forloop.last %},{% endunless %}{% endfor %}]
