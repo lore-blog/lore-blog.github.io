@@ -333,6 +333,10 @@ blockquote {
   font-size: 0.95rem;
 }
 
+.small-text {
+  font-size: 0.75rem;
+}
+
 @media (min-width: 1024px) {
   .share {
     position: fixed;

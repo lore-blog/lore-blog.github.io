@@ -13,12 +13,9 @@ Before we dive into nuances and intricacies, let’s define discipline:
 
 <span>| ˈdɪsɪplɪn | </span>
 
-1. The organisation of learning and the systematic 
-   production of new knowledge.^i^
-2. A particular area of study, especially a subject of 
-   study in a college or university.^ii^
-3. A branch of knowledge, taught and researched as 
-   part of higher education.^iii^
+1. The organisation of learning and the systematic<br>production of new knowledge.<sup>i</sup>
+2. A particular area of study, especially a subject of<br>study in a college or university.<sup>ii</sup>
+3. A branch of knowledge, taught and researched as<br>part of higher education.<sup>iii</sup>
 
 While the concept of “discipline” has traditionally been used to describe distinct academic specializations, it is important to understand that the nature, breadth, depth, extent and duration of interactions amongst these specializations can ebb and flow over time. It is these interfaces and integrations that sit at the core of innovation, progress, and eventually, [professional options](/2019/06/18/gone-are-the-days-of-one-and-done.html){:target="\_blank"} in the future.
 
@@ -87,14 +84,16 @@ For one final elucidation, let’s metaphorize the approaches into the act of co
 
 ![Disciplinarities-6](/assets/images/articles/discl-image6.png){:class="img-center"}
 
-<span style="text-align:justify">
 - **Intra-disciplinary** soup is like a [one ingredient broccoli soup](https://bromabakery.com/healthy-1-ingredient-broccoli-soup/){:target="\_blank"}(yes, this exists!). It’s light and straightforward - it hits the spot and fills you up.
 - **Multi-disciplinarians** collect the ingredients for a particular soup and place them next to one another based on relevance and utility. They try and figure out what can be done with what they have.
 - **Cross-disciplinarians** prepare the ingredients with an eye towards how flavors will influence one another but don’t necessarily bring them together in reality.
 - **Inter-disciplinarians** combine the ingredients and then add seasoning, integrating different tastes to add depth to their flavor profile. This soup is always new and always evolving…not one taken from your grandmother’s recipe book.
 - **Trans-disciplinarians** are the ones who decide to adapt the soup into a broth or a bisque. They also butter some bread…planning ahead, in case diners decide to bring guests.
-</span>
+
 ---
-[What are Academic Disciplines? Some observations on the Disciplinarity vs Interdisciplinarity Debate Krishnan (2009)](http://eprints.ncrm.ac.uk/783/1/what_are_academic_disciplines.pdf)^i^{:target="\_blank"}{:class="small-links"}.<br>
-[https://www.collinsdictionary.com/dictionary/english/academic-discipline](https://www.collinsdictionary.com/dictionary/english/academic-discipline)^ii^{:target="\_blank"}{:class="small-links"}<br>
-[https://en.wikipedia.org/wiki/Outline_of_academic_disciplines](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines)^iii^{:target="\_blank"}{:class="small-links"}
+
+<sup>i</sup>[What are Academic Disciplines? Some observations on the Disciplinarity vs Interdisciplinarity Debate Krishnan (2009)](http://eprints.ncrm.ac.uk/783/1/what_are_academic_disciplines.pdf){:target="\_blank"}{:class="small-links"}.<br>
+<sup>ii</sup>[https://www.collinsdictionary.com/dictionary/english/academic-discipline](https://www.collinsdictionary.com/dictionary/english/academic-discipline){:target="\_blank"}{:class="small-links"}<br>
+<sup>iii</sup>[https://en.wikipedia.org/wiki/Outline_of_academic_disciplines](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines){:target="\_blank"}{:class="small-links"}
+
+_Naihan Nath contributed to this article_{:class="small-text"}
