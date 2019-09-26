@@ -4,7 +4,7 @@ title: 'Gone are the days of one and done (part 2)'
 author: kavita
 hero: https://miro.medium.com/max/700/1*xQiMVAv5WYxHv7RVylzBJg.jpeg
 thumbnail: https://miro.medium.com/max/700/1*xQiMVAv5WYxHv7RVylzBJg.jpeg
-featured: true
+featured: false
 type: blog
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'The difference between the disciplinarities'
 author: kavita
 thumbnail: assets/images/articles/discl-image2.png
-featured: false
+featured: true
 type: blog
 ---
 
@@ -92,8 +92,8 @@ For one final elucidation, let’s metaphorize the approaches into the act of co
 
 ---
 
-<sup>i</sup>[What are Academic Disciplines? Some observations on the Disciplinarity vs Interdisciplinarity Debate Krishnan (2009)](http://eprints.ncrm.ac.uk/783/1/what_are_academic_disciplines.pdf){:target="\_blank"}{:class="small-links"}.<br>
-<sup>ii</sup>[https://www.collinsdictionary.com/dictionary/english/academic-discipline](https://www.collinsdictionary.com/dictionary/english/academic-discipline){:target="\_blank"}{:class="small-links"}<br>
-<sup>iii</sup>[https://en.wikipedia.org/wiki/Outline_of_academic_disciplines](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines){:target="\_blank"}{:class="small-links"}
+<sup>i</sup> [What are Academic Disciplines? Some observations on the Disciplinarity vs Interdisciplinarity Debate Krishnan (2009)](http://eprints.ncrm.ac.uk/783/1/what_are_academic_disciplines.pdf){:target="\_blank"}{:class="small-links"}.<br>
+<sup>ii</sup> [https://www.collinsdictionary.com/dictionary/english/academic-discipline](https://www.collinsdictionary.com/dictionary/english/academic-discipline){:target="\_blank"}{:class="small-links"}<br>
+<sup>iii</sup> [https://en.wikipedia.org/wiki/Outline_of_academic_disciplines](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines){:target="\_blank"}{:class="small-links"}
 
 _Naihan Nath contributed to this article_{:class="small-text"}
