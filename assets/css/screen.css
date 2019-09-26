@@ -664,6 +664,26 @@ iframe {
   width: 100%;
 }
 
+.definition {
+  position: relative;
+  background: cornsilk;
+  border: 1px solid burlywood;
+  padding: 10px;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+.definition::after {
+  content: '';
+  position: absolute;
+  height: 0;
+  width: 0;
+  left: -40px;
+  top: 45%;
+  border: 20px solid transparent;
+  border-right: 20px solid burlywood;
+}
+
 @media (min-width: 768px) {
   .jumbotron.fortags {
     margin-bottom: -50px;
