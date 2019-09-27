@@ -11,11 +11,13 @@ Great question, and for budding college students, or established academics worki
 
 Before we dive into nuances and intricacies, let’s define discipline:
 
-<div class="definition">
-<p>| ˈdɪsɪplɪn | </p>
-<p>1. The organisation of learning and the systematic<br>production of new knowledge.<sup>i</sup></p>
-<p>2. A particular area of study, especially a subject of<br>study in a college or university.<sup>ii</sup></p>
-<p>3. A branch of knowledge, taught and researched as<br>part of higher education.<sup>iii</sup></p>
+<div class="definition-container">
+    <div class="definition">
+        <p>| ˈdɪsɪplɪn | </p>
+        <p>1. The organisation of learning and the systematic<br>production of new knowledge.<sup>i</sup></p>
+        <p>2. A particular area of study, especially a subject of<br>study in a college or university.<sup>ii</sup></p>
+        <p>3. A branch of knowledge, taught and researched as<br>part of higher education.<sup>iii</sup></p>
+    </div>
 </div>
 
 While the concept of “discipline” has traditionally been used to describe distinct academic specializations, it is important to understand that the nature, breadth, depth, extent and duration of interactions amongst these specializations can ebb and flow over time. It is these interfaces and integrations that sit at the core of innovation, progress, and eventually, [professional options](/2019/06/18/gone-are-the-days-of-one-and-done.html){:target="\_blank"} in the future.

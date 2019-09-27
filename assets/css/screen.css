@@ -664,12 +664,18 @@ iframe {
   width: 100%;
 }
 
+.definition-container {
+  width: 100%;
+}
+
 .definition {
   position: relative;
   background: cornsilk;
   border: 1px solid burlywood;
   padding: 10px;
-  display: inline-block;
+  width: 50%;
+  min-width: 320px;
+  margin: 0 auto;
   margin-bottom: 20px;
 }
 
