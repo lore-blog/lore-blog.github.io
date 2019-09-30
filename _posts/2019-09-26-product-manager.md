@@ -69,4 +69,4 @@ Most days are busy, full of brainstorming, chatter and LOTS of decision making. 
 
 Phew! A long day filled with loads of decisions, people, conversations, and screens. While superheroes have shields to keep them in check and “alive”, similarly product managers have collaboration tools like Asana, prototyping platforms like AdobeXD and communication software such as Telegram to stay organized, productive, and sane. These tools allow for down time to grab a quick meal with co-workers, water breaks for hydration and perhaps a quick walk to combat an afternoon slump. After all, tomorrow’s another day to put your superhero powers to the test once again!
 
-_Naihan Nath contributed to this article_
+_Naihan Nath contributed to this article_{:class="small-text"}
