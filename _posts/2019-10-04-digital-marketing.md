@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Digital Marketing = Insta + Snapchat, right?'
-thumbnail: assets/images/articles/digital-marketing-img1.jpg
+thumbnail: assets/images/articles/thumbs/digital-marketing-img1.jpg
 featured: false
 type: blog
 ---
@@ -16,7 +16,7 @@ About 40% of every marketing team today is made up of digital specialists. Conve
 
 A good marketing plan offers 360-degree impact, with the aim to ensure that the target consumer is constantly **seeing** (billboards, television, social media), **reading** (newspaper/magazines, mobile apps) or **listening** (radio, podcasts) about a product or service.
 
-While conventional marketing tactics such as full-page newspaper ads or billboards on highways continue to be pivotal to creating awareness, measuring their efficacy is still hazy. These aggressive marketing activities are money guzzlers and it is tedious, if not impossible, to allocate a certain ROI (return on investment) to them. For instance, how would a marketer calculate the number of consumers who bought a packet of chips seeing the advertisement on a certain billboard on certain road on a certain day?
+While conventional marketing tactics such as full-page newspaper ads or billboards on highways continue to be pivotal to creating awareness, measuring their efficacy is still hazy. These aggressive marketing activities are money guzzlers and it is tedious, if not impossible, to allocate a certain ROI (return on investment) to them. For instance, how would a marketer calculate the number of consumers who bought a packet of chips seeing the advertisement on a certain billboard on a certain road on a certain day?
 
 ![digital-marketing-2](/assets/images/articles/digital-marketing-img2.jpg){:class="img-center"}
 
