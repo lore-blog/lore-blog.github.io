@@ -16,7 +16,10 @@ post_class: post-template
 			<div class="mainheading">              
                 <!-- Post Title -->
 				<h1 class="posttitle">{{ page.title }}</h1> 
-			</div>
+            </div>
+            <div class="sharethis-widget">
+                <div class="sharethis-inline-share-buttons"></div>
+            </div>
 
 			<!-- Post Featured Image -->
 			{% if page.hero %}<img class="featured-image img-fluid" src="{% if page.hero contains "://" %}{{ page.hero }}{% else %}{{ page.hero | absolute_url }}{% endif %}" alt="{{ page.title }}">{% endif %}
@@ -39,9 +42,7 @@ post_class: post-template
 
 
 
-            <div class="sharethis-widget">
-                <div class="sharethis-inline-share-buttons"></div>
-            </div>
+           
             <hr/>
             <!-- Author Box -->
             {% if page.author %}				
