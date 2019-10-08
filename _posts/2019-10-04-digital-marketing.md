@@ -27,8 +27,11 @@ With the ever-growing need to create measurable marketing strategies, traditiona
 Having understood the essentials of traditional marketing, we can now learn more about why digital marketing is attracting more attention and focus every passing day.
 
 1. A 99% measurability rate for digital initiatives enables marketers to evaluate success metrics for every campaign and across multiple elements (content, placement, format).
+
 2. Marketers can identify a specific audience that is best suited for a specific product or service, enabling controlled spends and targeted reach.
+
 3. With platforms such as Google reviews, Facebook and Instagram, consumers have direct access to brands, enabling both parties to react, share and acknowledge feedback in real time.
+
 4. Big buzz does not mean big spends. Making noise via traditional marketing usually entails high ticket items such as front-page ads, television commercials, and billboards with price tags 2 to 3x that of digital options such as digital ads on apps, video ads on YouTube, and social media amplification with influencers.
 
 While this list is not at all exhaustive, it gives you a good idea about how different this medium is when compared to the conventional methods of marketing.
