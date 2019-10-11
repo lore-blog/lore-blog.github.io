@@ -17,7 +17,7 @@ Like traditional marketing, digital marketing also follows the consumer funnel o
 That is, you need to drive **awareness** with consistent posting on a medium such as Instagram, Facebook, and Twitter. Then, generate **interest** for your product with paid advertisements placed on the right platforms and showcased to the right audience (e.g., consumer products on e-commerce websites and hotels on travel booking websites). Create communication that can address the reason for purchase and build a **connect** with the viewer (e.g., convince the client why they need your insurance for a newly purchased car) so that they can confidently move forward. Lastly, drive action by incentivizing the potential customer – offer direct call to **action** options such as ‘Book Now’, directions to shopping card, or even spot deals, discounts and offers that can accelerate decision making.
 
 ![digital-marketing-2](/assets/images/articles/dm2-image2.jpg){:class="img-center"}
-<span>Photo by [kaboonpics.com](https://www.pexels.com/@kaboompics?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels){:target="\_blank"} from [Pexels](https://www.pexels.com){:target="\_blank"}</span>{:class="text-center d-block"}
+<span>Photo by [kaboompics.com](https://www.pexels.com/@kaboompics?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels){:target="\_blank"} from [Pexels](https://www.pexels.com){:target="\_blank"}</span>{:class="text-center d-block"}
 
 **Getting that Instagram right**
 
@@ -28,7 +28,7 @@ When working for a company, open an Instagram or Facebook ‘business’ page th
 - The days of the week that result in more activity for your company’s marketing activities. Offer consumer-centric content such as contests and giveaways on those days. 
 
 ![digital-marketing-2](/assets/images/articles/dm2-image3.jpg){:class="img-center"}
-<span>Photo by [kaboonpics.com](https://pixabay.com/users/geralt-9301){:target="\_blank"} from [Pixabay](https://pixabay.com){:target="\_blank"}</span>{:class="text-center d-block"}
+<span>Photo by [Gerd Altmann](https://pixabay.com/users/geralt-9301){:target="\_blank"} from [Pixabay](https://pixabay.com){:target="\_blank"}</span>{:class="text-center d-block"}
 
 Another tool for digital amplification is to work with influencers who align with your brand positioning and digital strategy. Influencers are people who have direct access or connections to your target consumers – in other words, they can influence the behaviors of the very people you would like to have purchase your product or service. 
 - To take full advantage of the virality and credibility associated with influencer marketing, first honestly evaluate your product offering and articulate its pros and cons. 
