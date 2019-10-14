@@ -6,7 +6,7 @@ featured: false
 type: blog
 ---
 
-In [part I](https://blog.lore.online/2019/10/04/digital-marketing.html) of this article, we mentioned the perks of digital over traditional marketing. We also talked about how marketing any business across online platforms goes beyond just leveraging Instagram and Snapchat. As we dive deeper, we will touch on understanding the consumer funnel, assessing social media marketing options and catering to the right target audience. By the end of this article, you will have perspective to guide you through the unpredictable currents of the vast digital ocean and better understand if digital marketing is a field you want to explore even further.
+In [part I](https://blog.lore.online/2019/10/04/digital-marketing.html){:target="\_blank"} of this article, we mentioned the perks of digital over traditional marketing. We also talked about how marketing any business across online platforms goes beyond just leveraging Instagram and Snapchat. As we dive deeper, we will touch on understanding the consumer funnel, assessing social media marketing options and catering to the right target audience. By the end of this article, you will have perspective to guide you through the unpredictable currents of the vast digital ocean and better understand if digital marketing is a field you want to explore even further.
 
 **Understanding the consumer funnel**
 
@@ -14,7 +14,7 @@ Like traditional marketing, digital marketing also follows the consumer funnel o
 
 ![digital-marketing-2](/assets/images/articles/dm2-image1.jpg){:class="img-center"}
 
-That is, you need to drive **awareness** with consistent posting on a medium such as Instagram, Facebook, and Twitter. Then, generate **interest** for your product with paid advertisements placed on the right platforms and showcased to the right audience (e.g., consumer products on e-commerce websites and hotels on travel booking websites). Create communication that can address the reason for purchase and build a **connect** with the viewer (e.g., convince the client why they need your insurance for a newly purchased car) so that they can confidently move forward. Lastly, drive action by incentivizing the potential customer – offer direct call to **action** options such as ‘Book Now’, directions to shopping card, or even spot deals, discounts and offers that can accelerate decision making.
+That is, you need to drive **awareness** with consistent posting on a medium such as Instagram, Facebook, and Twitter. Then, generate **interest** for your product with paid advertisements placed on the right platforms and showcased to the right audience (e.g., consumer products on e-commerce websites and hotels on travel booking websites). Create communication that can address the reason for purchase and build a **connect** with the viewer (e.g., convince the client why they need your insurance for a newly purchased car) so that they can confidently move forward. Lastly, drive  **action** by incentivizing the potential customer – offer direct call to action options such as ‘Book Now’, directions to shopping cart, or even spot deals, discounts and offers that can accelerate decision making.
 
 ![digital-marketing-2](/assets/images/articles/dm2-image2.jpg){:class="img-center"}
 <span>Photo by [kaboompics.com](https://www.pexels.com/@kaboompics?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels){:target="\_blank"} from [Pexels](https://www.pexels.com){:target="\_blank"}</span>{:class="text-center d-block"}
@@ -23,17 +23,17 @@ That is, you need to drive **awareness** with consistent posting on a medium suc
 
 While investing your energies behind getting the right kind of pictures and videos is important, what you need to learn, and master, is the art of analyzing your efforts. Let’s understand how to best assess social media marketing (SMM).
 When working for a company, open an Instagram or Facebook ‘business’ page that gives you access to a multitude of analytical tools. Study these tools on a regular, consistent basis to understand the following: 
-- How many ‘followers’ are engaging with your content via likes, comments and shares. 
-- The time of the day your content gets the most engagement. For example, news material is typically consumed from 8am to 11am while fashion content is often consumed from 5pm to 9pm.
-- The days of the week that result in more activity for your company’s marketing activities. Offer consumer-centric content such as contests and giveaways on those days. 
+1. How many ‘followers’ are engaging with your content via likes, comments and shares. 
+2. The time of the day your content gets the most engagement. For example, news material is typically consumed from 8am to 11am while fashion content is often consumed from 5pm to 9pm.
+3. The days of the week that result in more activity for your company’s marketing activities. Offer consumer-centric content such as contests and giveaways on those days. 
 
 ![digital-marketing-2](/assets/images/articles/dm2-image3.jpg){:class="img-center"}
 <span>Photo by [Gerd Altmann](https://pixabay.com/users/geralt-9301){:target="\_blank"} from [Pixabay](https://pixabay.com){:target="\_blank"}</span>{:class="text-center d-block"}
 
 Another tool for digital amplification is to work with influencers who align with your brand positioning and digital strategy. Influencers are people who have direct access or connections to your target consumers – in other words, they can influence the behaviors of the very people you would like to have purchase your product or service. 
-- To take full advantage of the virality and credibility associated with influencer marketing, first honestly evaluate your product offering and articulate its pros and cons. 
-- Then, monitor social media, traditional media, and competitive offerings to understand how consumers interact with brands via intermediaries. For example, beauty brands have a wide variety of fashion and beauty bloggers or influencers available for collaboration to increase product awareness. 
-- Finally, engage with an influencer by him or her offering product demo’s and identifying why their perspective aligns with your product and strategy. Be ready with budget numbers, compensation structure, metrics and so forth so that the influencer can get to work immediately.
+1. To take full advantage of the virality and credibility associated with influencer marketing, first honestly evaluate your product offering and articulate its pros and cons. 
+2. Then, monitor social media, traditional media, and competitive offerings to understand how consumers interact with brands via intermediaries. For example, beauty brands have a wide variety of fashion and beauty bloggers or influencers available for collaboration to increase product awareness. 
+3. Finally, engage with an influencer by him or her offering product demo’s and identifying why their perspective aligns with your product and strategy. Be ready with budget numbers, compensation structure, metrics and so forth so that the influencer can get to work immediately.
 
 Influencer marketing has gained popularity owing to the authenticity it lends to a brand or product. Today’s millennial audience is more interested in reading reviews and viewing actual images of the garment versus professionally shot images uploaded by brands. This is where connecting with influencers helps brands take the product closer to the end user.
 
@@ -59,15 +59,15 @@ Sounds difficult to get this balance right in marketing, right? But this is wher
 
 Let’s understand how each of these three elements work – 
 
--	With a variety of platforms, from social media and websites to apps and portals, digital marketers can now identify the profile of their audience and work with selective mediums rather than having to go mass. 
--	Digital marketing experts need to create content that is best suited the target audience and platform. Let’s take the example of a new eatery:
+1.	With a variety of platforms, from social media and websites to apps and portals, digital marketers can now identify the profile of their audience and work with selective mediums rather than having to go mass. 
+2.	Digital marketing experts need to create content that is best suited to the target audience and platform. Let’s take the example of a new eatery:
 
-	• Focus on promoting photos of dishes, biography of the chef, and inspiration for the cuisine on social media platforms such as Facebook and Instagram. 
+	a. Focus on promoting photos of dishes, biography of the chef, and inspiration for the cuisine on social media platforms such as Facebook and Instagram. 
 
-	• Then, the eatery can take to apps such as Deliveroo, Swiggy and Zomato to highlight other elements such as ratings, reviews, and launch offers. 
+	b. Then, the eatery can take to apps such as Deliveroo, Swiggy and Zomato to highlight other elements such as ratings, reviews, and launch offers. 
 
-	• Finally, the team can promote their new tasting menu via paid advertising, targeting a specific audience that can be filtered using geographic, demographic, interest-based segmentation. (Note, paid advertisements can be monitored regularly and offer different pricing models such as pay-by-click, pay-by-view or pay-per-day and so on.) 
-- As a digital marketer your aim should be to monitor and analyze these campaigns daily or weekly to evaluate the quality of leads you generate. If you find the results to be unsatisfactory, you have the flexibility to stop spends and revise your campaign.
+	c. Finally, the team can promote their new tasting menu via paid advertising, targeting a specific audience that can be filtered using geographic, demographic, interest-based segmentation. (Note, paid advertisements can be monitored regularly and offer different pricing models such as pay-by-click, pay-by-view or pay-per-day and so on.) 
+3. As a digital marketer your aim should be to monitor and analyze these campaigns daily or weekly to evaluate the quality of leads you generate. If you find the results to be unsatisfactory, you have the flexibility to stop spends and revise your campaign.
 
 ![digital-marketing-2](/assets/images/articles/dm2-image6.jpg){:class="img-center"}
 <span>Photo by [Timur Saglambilek](https://www.pexels.com/@marketingtuig){:target="\_blank"} from [Pexels](https://www.pexels.com){:target="\_blank"}</span>{:class="text-center d-block"}
