@@ -23,16 +23,22 @@ That is, you need to drive **awareness** with consistent posting on a medium suc
 
 While investing your energies behind getting the right kind of pictures and videos is important, what you need to learn, and master, is the art of analyzing your efforts. Let’s understand how to best assess social media marketing (SMM).
 When working for a company, open an Instagram or Facebook ‘business’ page that gives you access to a multitude of analytical tools. Study these tools on a regular, consistent basis to understand the following: 
+
 1. How many ‘followers’ are engaging with your content via likes, comments and shares. 
+
 2. The time of the day your content gets the most engagement. For example, news material is typically consumed from 8am to 11am while fashion content is often consumed from 5pm to 9pm.
+
 3. The days of the week that result in more activity for your company’s marketing activities. Offer consumer-centric content such as contests and giveaways on those days. 
 
 ![digital-marketing-2](/assets/images/articles/dm2-image3.jpg){:class="img-center"}
 <span>Photo by [Gerd Altmann](https://pixabay.com/users/geralt-9301){:target="\_blank"} from [Pixabay](https://pixabay.com){:target="\_blank"}</span>{:class="text-center d-block"}
 
 Another tool for digital amplification is to work with influencers who align with your brand positioning and digital strategy. Influencers are people who have direct access or connections to your target consumers – in other words, they can influence the behaviors of the very people you would like to have purchase your product or service. 
+
 1. To take full advantage of the virality and credibility associated with influencer marketing, first honestly evaluate your product offering and articulate its pros and cons. 
+
 2. Then, monitor social media, traditional media, and competitive offerings to understand how consumers interact with brands via intermediaries. For example, beauty brands have a wide variety of fashion and beauty bloggers or influencers available for collaboration to increase product awareness. 
+
 3. Finally, engage with an influencer by him or her offering product demo’s and identifying why their perspective aligns with your product and strategy. Be ready with budget numbers, compensation structure, metrics and so forth so that the influencer can get to work immediately.
 
 Influencer marketing has gained popularity owing to the authenticity it lends to a brand or product. Today’s millennial audience is more interested in reading reviews and viewing actual images of the garment versus professionally shot images uploaded by brands. This is where connecting with influencers helps brands take the product closer to the end user.
@@ -40,7 +46,7 @@ Influencer marketing has gained popularity owing to the authenticity it lends to
 With the advent of SMM, it is imperative that you learn to measure your activities and study the analytics to aid efficient strategy development. The ability to attribute specific Return on Investment (ROI) has been a key driver for the increase in digital marketing initiatives across industries. This ROI can be translated into various measurement criteria – sales driven via digital platforms, the number of people who have engaged with content online, views received on videos, leads achieved via digital forms and so on. 
 
 ![digital-marketing-2](/assets/images/articles/dm2-image4.jpg){:class="img-center"}
-<span>Photo by [rawpixel.com](https://www.pexels.com/@rawpixel){:target="\_blank"} from [Pexels](https://www.pexels.com){:target="\_blank"}</span>{:class="text-center d-block"}
+
 
 **Digital beyond social media**
 
@@ -55,11 +61,12 @@ It is essential to note that managing a website is not a one-time effort. As an 
 Sounds difficult to get this balance right in marketing, right? But this is where digital marketing has helped managers evolve strategies with targeted reach, the ability to tweak content almost in real-time, and effectively manage budgets. 
 
 ![digital-marketing-2](/assets/images/articles/dm2-image5.jpg){:class="img-center"}
-<span>Photo by [rawpixel.com](https://www.pexels.com/@rawpixel){:target="\_blank"} from [Pexels](https://www.pexels.com){:target="\_blank"}</span>{:class="text-center d-block"}
+
 
 Let’s understand how each of these three elements work – 
 
 1.	With a variety of platforms, from social media and websites to apps and portals, digital marketers can now identify the profile of their audience and work with selective mediums rather than having to go mass. 
+
 2.	Digital marketing experts need to create content that is best suited to the target audience and platform. Let’s take the example of a new eatery:
 
 	a. Focus on promoting photos of dishes, biography of the chef, and inspiration for the cuisine on social media platforms such as Facebook and Instagram. 
@@ -67,6 +74,7 @@ Let’s understand how each of these three elements work –
 	b. Then, the eatery can take to apps such as Deliveroo, Swiggy and Zomato to highlight other elements such as ratings, reviews, and launch offers. 
 
 	c. Finally, the team can promote their new tasting menu via paid advertising, targeting a specific audience that can be filtered using geographic, demographic, interest-based segmentation. (Note, paid advertisements can be monitored regularly and offer different pricing models such as pay-by-click, pay-by-view or pay-per-day and so on.) 
+
 3. As a digital marketer your aim should be to monitor and analyze these campaigns daily or weekly to evaluate the quality of leads you generate. If you find the results to be unsatisfactory, you have the flexibility to stop spends and revise your campaign.
 
 ![digital-marketing-2](/assets/images/articles/dm2-image6.jpg){:class="img-center"}
