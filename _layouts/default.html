@@ -64,7 +64,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
       <div class="container pr-0">
         <!-- Begin Logo -->
-        <a class="navbar-brand" href="{{ site.baseurl }}/">
+        <a class="navbar-brand" href="{{ site.lore_url }}" target="_blank">
           <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}" height="34px" />
         </a>
         <!-- End Logo -->
@@ -77,6 +77,9 @@
           <!-- Begin Menu -->
 
           <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="{{ site.baseurl }}/">Lore blog</a>
+            </li>
             {% if page.url == "/" %}
             <li class="nav-item active">
               {% else %}
@@ -93,10 +96,6 @@
             <li class="nav-item">
               {% endif %}
               <a class="nav-link" href="{{ site.baseurl }}/#stories">Stories</a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link" target="_blank" href="{{ site.lore_url }}">Lore.online</a>
             </li>
           </ul>
 
