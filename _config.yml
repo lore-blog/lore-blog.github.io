@@ -26,7 +26,12 @@ authors:
     display_name: Kavita Mehta & Namita Mehta
     description: Kavita Mehta is a thought leader at the intersection of education, skill-building, technology and impact. Her 25-year career across financial services, digital media and entrepreneurship is firmly grounded in her belief that education is a right, not a privilege. She is the founder of Caymus Technology Ventures, co-founder of The Red Pen and author of Acing Admissions, published by HarperCollins. For this article, Kavita joined forces with Namita Mehta, who currently serves as the President of The Red Pen and who had earlier established and run the university counseling department at BD Somani International School in Mumbai. The co-authors offer their unique yet diverse perspectives to parents and other stakeholders deciphering the global education landscape.
     image: '/assets/images/authors/kavita-namita.png'
-    profile: https://www.educationdive.com
+  anshul:
+    name: Anshul
+    display_name: Anshul Tripathi
+    description: Anshul Tripathi is a third-year student at the University of Pennsylvania. Originally from Mumbai, Anshul spends his time on campus working as a teaching assistant, focused on helping his juniors find their footing in computer science or helping international students understand the nuances of American English.
+    image: '/assets/images/authors/anshul.jpeg'
+    profile: https://www.linkedin.com/in/anshultripathi2699/
 
 # Plugins
 plugins:
