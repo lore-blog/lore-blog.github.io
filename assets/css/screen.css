@@ -82,6 +82,12 @@ section.recent-posts {
   text-align: left !important;
   margin-bottom: 20px
 }
+.img-inline{
+  width: 190px;
+  margin: 10px 25px 0 0;
+  float: left;
+  display:inline-block;
+}
 @media (min-width: 576px) {
   .card-columns.listfeaturedtag {
     -webkit-column-count: 2;
@@ -418,6 +424,12 @@ blockquote {
 @media (max-width: 767px) {
   .post-top-meta.authorpage {
     text-align: center;
+  }
+  .img-inline {
+    width: auto;
+    margin: 10px auto 10px auto;
+    float: none;
+    display: block;
   }
 }
 .share,
