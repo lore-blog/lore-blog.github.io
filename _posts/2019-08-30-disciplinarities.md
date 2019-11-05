@@ -3,7 +3,7 @@ layout: post
 title: 'The difference between the disciplinarities'
 author: kavita
 thumbnail: assets/images/articles/thumbs/disc-featured.png
-featured: true
+featured: false
 type: blog
 ---
 
