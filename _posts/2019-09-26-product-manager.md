@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'The 8 Kryptonite-immune superheroes rolled into a single Product Manager'
+title: "The 8 Kryptonite-immune superheroes rolled into a single Product Manager"
 author: kavita
 thumbnail: assets/images/articles/product-manager1.jpg
-featured: true
+featured: false
 type: blog
 ---
 
