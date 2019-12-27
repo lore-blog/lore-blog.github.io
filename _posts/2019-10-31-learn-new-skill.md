@@ -2,7 +2,7 @@
 layout: post
 title: 'Learn a New Skill and Then Master it'
 thumbnail: assets/images/articles/thumbs/new-skill1.jpg
-featured: true
+featured: false
 type: blog
 ---
 
