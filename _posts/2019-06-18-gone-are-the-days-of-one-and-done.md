@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gone are the days of one and done'
+title: "Gone are the days of one and done"
 author: kavita
 thumbnail: assets/images/articles/thumbs/gone-are-the-days.png
 featured: false
@@ -20,7 +20,7 @@ He was bewildered by my answer; after all, how would she select a “stream” f
 In the world of modern work, 9-to-5 jobs and careers with a single company are no longer the norm. Instead, the pervasiveness of technology, and the accessibility it facilitates, has changed the very nature of human work. Members of today’s workforce, as well as those of the foreseeable future, control their own destinies — whether it be daily schedule, work location or length and format of employment. With that level of personal control in building a career comes the ever-present need to remain relevant. And, to remain relevant, an individual must embrace change, be willing to learn what is pertinent for a particular industry, place, era or paradigm. That means education, too, takes on a new avatar — the “one and done” framework that prevailed for much of the last century is obsolete. It is being replaced with the notion of lifelong learning, which requires individuals to be flexible, open and cross-disciplinary in their approach.
 
 ![Gone-are-the-days-of-one-and-one-image2](https://miro.medium.com/max/700/1*6nqvyc1170KMmelUqRozAg.jpeg){:class="img-center"}
-[Nikk Valentine](https://www.flickr.com/people/nikkvalentine/){:class="text-center d-block"}
+[Nikk Valentine](https://www.flickr.com/people/nikkvalentine/){:class="text-center d-block"}{:target="\_blank"}
 
 I laid out my logic to the doctor: Since the jobs of the future will demand a fusion of skills from a range of fields, it is critical that my children know how and when to learn. And then, when faced with a skill gap standing in the way of a goal, they can identify and leverage the right resources to upskill, reskill or just plain old skill. In essence, what I want them to do is become “broad perspective specialists”.
 
@@ -37,7 +37,7 @@ My daughter may decide to study psychology at college and yet, she won’t neces
 Climate change is an issue that affects the world, and future careers, in various ways. If a young person wants to understand what climate change means for her family’s manufacturing business or explore the viability of a for-profit social venture to curb the negative impact of climate change or work as an urban planner to effect long-term change, she would be well-served by studying the topic from various angles, which of course, will morph over time.
 
 ![Gone-are-the-days-of-one-and-one-image4](https://miro.medium.com/max/700/1*9dLqtm-IlCb2n592NmVhpQ.png){:class="img-center"}
-[Gresham College](https://www.flickr.com/photos/greshamcollege/){:class="text-center d-block"}
+[Gresham College](https://www.flickr.com/photos/greshamcollege/){:class="text-center d-block"}{:target="\_blank"}
 
 - **History** to understand why the industrial revolution happened and its impact on the natural world.
 - **Natural sciences and geography** to understand the earth’s physical makeup and atmosphere to contextualize the effects of greenhouse gases.
@@ -85,7 +85,7 @@ Technology in all realms, from retail to finance and healthcare to education, is
 Let me give you an example: Around 2014, taxi drivers protested the arrival of ride sharing services such as Uber. This challenge to the status quo prompted fear and anxiety, given the perceived threat to their livelihoods. While I can empathize with their reaction, I can also envision another approach — accepting the reality of this threat and then mitigating it in creative and sustainable ways. A fear of technology, not heeding changing customer preferences and shunning innovation paralyzed the taxi professionals until change could not be avoided.
 
 ![Gone-are-the-days-of-one-and-one-image7](https://miro.medium.com/max/700/1*NFsAIdbqSXgcCsRjAcBWTQ.jpeg){:class="img-center"}
-[Aaron Parecki](https://www.flickr.com/photos/aaronpk/){:class="text-center d-block"}
+[Aaron Parecki](https://www.flickr.com/photos/aaronpk/){:class="text-center d-block"}{:target="\_blank"}
 
 ## LABOR FORCE REALITIES
 
@@ -93,4 +93,4 @@ New models of employment have enabled companies to extract the most optimal outc
 
 Education, however, hasn’t kept pace with this new economic reality. The fixed set of steps to tick off from school through college does incredibly little to prepare workforce entrants for a world of work in which content and facts are outdated by the time you finish a three- or four-year degree. So, then, you might say, “why go to college anyway? Just learn on the job and take courses along the way.” That is a valid proposition; one with many potential outcomes. For some, college, indeed, is not necessary, amounting to a mis-direction of precious financial resources and time. Yet, for others, college represents a once-in-a-lifetime gift — that is, if, instead of focusing on memorizing facts and regurgitating content, they focus on establishing a foundation upon which to keep learning.
 
-In the second part of this article, I will discuss the reasons why the formal university experience still holds value for many.
+In the [second part](https://blog.lore.online/2019/07/02/gone-are-the-days-part2.html){:target="\_blank"} of this article, I will discuss the reasons why the formal university experience still holds value for many.

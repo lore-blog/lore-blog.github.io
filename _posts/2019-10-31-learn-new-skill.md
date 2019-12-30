@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Learn a New Skill and Then Master it'
+title: "Learn a New Skill and Then Master it"
 thumbnail: assets/images/articles/thumbs/new-skill1.jpg
-featured: true
+featured: false
 type: blog
 ---
 
@@ -10,9 +10,9 @@ What if, as you finish up university, you are told that the knowledge you gained
 
 ![learn-new-skill](/assets/images/articles/new-skill1.jpg){:class="img-center"}
 
-According to *Fuelling India’s Skill Revolution*, a report by Accenture, over 3 million graduates and post-graduates enter the Indian workforce annually. While this is a healthy number, the ground reality is that Indian youth lack the necessary skills to kick-start, maintain or grow in their careers, Leading to chronic un- or under-employability. The skill gap also poses a major GDP growth risk of US$1.97 trillion over the next decade.
+According to _Fuelling India’s Skill Revolution_, a report by Accenture, over 3 million graduates and post-graduates enter the Indian workforce annually. While this is a healthy number, the ground reality is that Indian youth lack the necessary skills to kick-start, maintain or grow in their careers, Leading to chronic un- or under-employability. The skill gap also poses a major GDP growth risk of US\$1.97 trillion over the next decade.
 
-If all this economic uncertainty can be caused by the setback of a skill gap, we need to find new ways to work on the current skills and build new ones. Wouldn’t it be great if we knew not only how to learn a new skill but also continue to benefit from it through regular fine-tuning? Read on for tips on how to master skills, boost your productivity and up your employability quotient. 
+If all this economic uncertainty can be caused by the setback of a skill gap, we need to find new ways to work on the current skills and build new ones. Wouldn’t it be great if we knew not only how to learn a new skill but also continue to benefit from it through regular fine-tuning? Read on for tips on how to master skills, boost your productivity and up your employability quotient.
 
 **Begin with – Learning**
 
@@ -26,7 +26,7 @@ The first step towards being known as an innovator in your field is finding a re
 
 What’s the point in learning something new and not applying it? Applying your newly-found skills at work can help break the monotony of ‘the way it’s always been done’ and also help you transition into a valuable asset. Bring new ideas to the workplace and you’ll be recognized as a champion of change. Also, you’ll get into the habit adapting for the benefit of progress – both the company’s and yours.
 
-The best way to master your skills is by doing what the artist or chef does every day to become amazing: Apply your learnings to your work. 
+The best way to master your skills is by doing what the artist or chef does every day to become amazing: Apply your learnings to your work.
 
 ![learn-new-skill](/assets/images/articles/new-skill3.jpg){:class="img-center"}
 
@@ -40,9 +40,9 @@ While mental rehearsals cannot replace the actual experience of performing a tas
 
 **Get Together - Online**
 
-Form a group of peers who share the same career interest or who are passionate about the same topics as you. Each person’s perspective can offer fresh insights as you bounce innovative ideas off one another. 
+Form a group of peers who share the same career interest or who are passionate about the same topics as you. Each person’s perspective can offer fresh insights as you bounce innovative ideas off one another.
 
-While learning to master skills take time, it is essential to sustain enthusiasm and that’s where peer groups can help. Sharing new findings and new study material keeps the learning both engaging and relevant. Inspiration for new ideas is drawn from conversations you have with like-minded people. 
+While learning to master skills take time, it is essential to sustain enthusiasm and that’s where peer groups can help. Sharing new findings and new study material keeps the learning both engaging and relevant. Inspiration for new ideas is drawn from conversations you have with like-minded people.
 
 **Be the Master – to Master it**
 
@@ -50,10 +50,6 @@ You’ve learned a new teaching technique, now preach it! Teach a friend or coll
 
 ![learn-new-skill](/assets/images/articles/new-skill4.jpg){:class="img-center"}
 
-This is an important step in mastering a skill. You’ll know how much you’ve grasped as you answer their doubts.  This will also help you better retain what you’ve learned. Hence, you master a new skill or technique and you also practice the noble art of teaching and sharing your knowledge.
+This is an important step in mastering a skill. You’ll know how much you’ve grasped as you answer their doubts. This will also help you better retain what you’ve learned. Hence, you master a new skill or technique and you also practice the noble art of teaching and sharing your knowledge.
 
 While learning a new skill is not easy, regular practice and appetite to excel combine to keep you from experiencing redundancy. So, find the patience, focus and desire to eliminate your skill gap and become an indispensable expert in your field.
-
-
-
-
