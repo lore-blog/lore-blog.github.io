@@ -78,20 +78,23 @@ section.recent-posts {
 .card-group .photo-credits {
   display: none;
 }
-#st-1{
+#st-1 {
   text-align: left !important;
-  margin-bottom: 20px
+  margin-bottom: 20px;
 }
-.img-inline{
+.img-inline {
   width: 300px;
   margin: 10px 25px 0 0;
   float: left;
-  display:inline-block;
+  display: inline-block;
 }
-.selecting-blog{
+.selecting-blog {
   width: 270px;
   float: left;
   margin-right: 30px;
+}
+h5 {
+  font-family: Merriweather !important;
 }
 @media (min-width: 576px) {
   .card-columns.listfeaturedtag {
@@ -215,7 +218,7 @@ span.post-read-more a:hover {
   color: rgba(0, 0, 0, 0.8);
 }
 .dot:after {
-  content: '·';
+  content: "·";
   margin-left: 3px;
   margin-right: 3px;
 }
@@ -262,7 +265,7 @@ span.post-read-more a:hover {
 }
 .mainheading h1.sitetitle {
   color: #1e1f40;
-  font-family: 'Heebo', sans-serif;
+  font-family: "Heebo", sans-serif;
   font-weight: bold;
 }
 .mainheading h1.posttitle {
@@ -382,10 +385,10 @@ blockquote {
   .alertbar form {
     display: block;
   }
-  .alertbar input[type='submit'] {
+  .alertbar input[type="submit"] {
     border-radius: 3px !important;
   }
-  .alertbar input[type='email'] {
+  .alertbar input[type="email"] {
     margin-right: 0px !important;
     display: block;
     border-right: 1px solid #ddd !important;
@@ -426,18 +429,24 @@ blockquote {
   .post-top-meta .col-md-10 {
     text-align: center;
   }
-  .br1, .br2, .br3{
+  .br1,
+  .br2,
+  .br3 {
     display: none;
   }
 }
-@media (max-width: 991px){
-  .br1, .br2, .br3, .br4, .br5{
+@media (max-width: 991px) {
+  .br1,
+  .br2,
+  .br3,
+  .br4,
+  .br5 {
     display: none;
   }
 }
 
 @media (max-width: 767px) {
-  .selecting-blog{
+  .selecting-blog {
     width: 100%;
     margin-left: 0;
     margin-bottom: 15px;
@@ -533,7 +542,7 @@ ul.tags li a:hover {
 .alertbar form {
   display: inline-block;
 }
-.alertbar input[type='email'] {
+.alertbar input[type="email"] {
   font-size: 0.85rem;
   padding: 3px 5px 3px 10px;
   border-top-left-radius: 3px;
@@ -545,7 +554,7 @@ ul.tags li a:hover {
   letter-spacing: 0.5px;
   margin-left: 5px;
 }
-.alertbar input[type='submit'] {
+.alertbar input[type="submit"] {
   background-color: #1c9963;
   border: 1px solid #1c9963;
   color: rgba(255, 255, 255, 1);
@@ -634,7 +643,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 .article-post .h1,
 .article-post .h2,
@@ -715,7 +724,7 @@ iframe {
 }
 
 .definition::after {
-  content: '';
+  content: "";
   position: absolute;
   height: 0;
   width: 0;

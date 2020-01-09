@@ -3,7 +3,7 @@ layout: post
 title: "9 Productive Ways to Spend Your Career Break"
 author:
 thumbnail: assets/images/articles/thumbs/career-break-1.png
-featured: true
+featured: false
 type: blog
 ---
 
