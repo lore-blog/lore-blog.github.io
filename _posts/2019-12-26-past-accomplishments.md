@@ -3,7 +3,7 @@ layout: post
 title: "Why Past Accomplishments Don’t Guarantee Future Success"
 author:
 thumbnail: assets/images/articles/thumbs/past-accomplishments-img1.png
-featured: true
+featured: false
 type: blog
 ---
 
