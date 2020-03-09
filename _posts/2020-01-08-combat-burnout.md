@@ -3,7 +3,7 @@ layout: post
 title: "Treat Your Burnout Before It Runs You Out"
 author:
 thumbnail: assets/images/articles/thumbs/burnnout-img1.png
-featured: true
+featured: false
 type: blog
 ---
 
