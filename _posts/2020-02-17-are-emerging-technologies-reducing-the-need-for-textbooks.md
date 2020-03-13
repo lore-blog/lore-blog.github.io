@@ -3,7 +3,7 @@ layout: post
 title: "Are Emerging Technologies Reducing The Need For Textbooks?"
 author: kavita
 thumbnail: assets/images/articles/thumbs/emerging-tech1.png
-featured: true
+featured: false
 type: blog
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "What You Should Know While Learning To Play A Musical Instrument"
 author:
 thumbnail: assets/images/articles/music-featured.png
-featured: true
+featured: false
 type: blog
 ---
 

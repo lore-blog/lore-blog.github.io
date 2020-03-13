@@ -3,7 +3,7 @@ layout: post
 title: "Gone are the days of one and done"
 author: kavita
 thumbnail: assets/images/articles/thumbs/gone-are-the-days.png
-featured: false
+featured: true
 type: blog
 ---
 
