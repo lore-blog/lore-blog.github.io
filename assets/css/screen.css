@@ -93,6 +93,11 @@ section.recent-posts {
   float: left;
   margin-right: 30px;
 }
+.sanghvi {
+  width: 41%;
+  float: left;
+  margin-right: 20px;
+}
 h5 {
   font-family: Merriweather !important;
 }
@@ -162,6 +167,8 @@ h5 {
   float: left;
   margin-right: 13px;
   border-radius: 100%;
+  object-fit: cover;
+  object-position: center center;
 }
 .post-top-meta {
   margin-bottom: 2rem;
@@ -446,6 +453,11 @@ blockquote {
 }
 
 @media (max-width: 767px) {
+  .sanghvi {
+    width: 100%;
+    float: initial;
+    margin-right: 0;
+  }
   .selecting-blog {
     width: 100%;
     margin-left: 0;
@@ -705,7 +717,10 @@ iframe {
   color: #fff;
 }
 .card .img-fluid {
-  width: 100%;
+  width: 348px;
+  height: 216px;
+  object-fit: cover;
+  object-position: center center;
 }
 
 .definition-container {

@@ -15,12 +15,18 @@
     {% elsif site.description %}
     <meta name="description" content="{{ site.description }}" />
     <meta name="og:description" content="{{ site.description }}" />
-    {% endif %} {% if page.thumbnail %} <meta property="og:image" content="{% if page.thumbnail contains "://" %}{{ page.thumbnail }}{% else %}{{ page.thumbnail | absolute_url }}{% endif %}"> {% else %}
+    {% endif %} {% if page.thumbnail %} <meta property="og:image" content="{% if page.thumbnail contains "://" %}{{ page.thumbnail }}{% else %}{{ page.thumbnail | absolute_url }}{% endif %}"> {% else
+    %}
     <meta property="og:image" content="http://blog.lore.online/assets/images/authors/kavita-mehta.jpg" />
     {% endif %}
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/bootstrap.min.css" />
 
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous" />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
+      integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp"
+      crossorigin="anonymous"
+    />
 
     <link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css?family=Heebo&display=swap" rel="stylesheet" />
@@ -34,11 +40,11 @@
 
   {% if jekyll.environment == 'production' %}
   <script>
-    (function(i, s, o, g, r, a, m) {
+    (function (i, s, o, g, r, a, m) {
       i["GoogleAnalyticsObject"] = r;
       (i[r] =
         i[r] ||
-        function() {
+        function () {
           (i[r].q = i[r].q || []).push(arguments);
         }),
         (i[r].l = 1 * new Date());
@@ -139,9 +145,17 @@
 
     <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+      integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+      crossorigin="anonymous"
+    ></script>
 
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+      integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+      crossorigin="anonymous"
+    ></script>
 
     <script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script>
 
