@@ -93,4 +93,4 @@ You could mention a part in your resume saying learnings or key skills and list 
 
 Writing an effective resume that creates an impact and a lasting impression could be considered as painting a portrait of yourself with words. Think of your interviewer or potential employer as a buyer. A buyer, who is wandering in a gallery full of colorful exhibits but will only buy a portrait that catches his or her eye.
 
-Are you having trouble creating the perfect resume? Tell us about it in the comment section or check out some of the [best online skills for resume writing](https://lore.online/results/resume){:target="\_blank"}.
+Check out some of the [best online skills for resume writing](https://lore.online/results/resume){:target="\_blank"} or enroll in our [Write a Winning Resume Learning Pathway](https://lore.online/learning-path/writing-a-winning-resume){:target="\_blank"}.
