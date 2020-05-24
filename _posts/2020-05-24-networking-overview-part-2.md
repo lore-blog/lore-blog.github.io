@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NETWORKING PART II: Ground Rules'
+title: "NETWORKING PART II: Ground Rules"
 author:
 thumbnail: assets/images/articles/networking2-1.jpg
 featured: false
@@ -29,7 +29,7 @@ Twenty years ago, I made a career move that transformed my entire life. Moving t
 ![networking-overview](/assets/images/articles/networking2-2.jpg){:class="img-center"}
 
 <p align="center" style="font-size:0.9em">This photo includes 6 people who worked at Yahoo and then went on to hold 
-leadership positions at Facebook, GitHub, Yelp, GoFundMe, and Slack.</p>
+leadership positions at <br>Facebook, GitHub, Yelp, GoFundMe, and Slack.</p>
 
 **Be consistent**
 

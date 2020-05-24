@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NETWORKING PART IV: How to become a valuable network member'
+title: "NETWORKING PART IV: How to become a valuable network member"
 author:
 thumbnail: assets/images/articles/networking4-1.jpg
 featured: false
@@ -34,13 +34,14 @@ People crave to be remembered and recognized – it’s just human nature. Whene
 
 Hoarding information is a sign of insecurity. While no one expects you give up trade secrets or intellectual property, be generous in your sharing of insights or information. If some bit of advice or information is exceptionally valuable, strategically share it (e.g., with certain people or on discrete platforms or at a specific point in time). And never mislead or lie to anyone. It’s just not worth the reputational risk.
 
-<p style="font-size:0.9em">
 ![networking-overview](/assets/images/articles/networking4-2.jpg){:class="img-center"}
-Ayush and I grabbing a food truck lunch during his summer internship in San Francisco
+
+<p style="font-size:0.9em;text-align:center;margin-bottom:40px">Ayush and I grabbing a food truck lunch during his summer internship in San Francisco
 </p>
 
-<p style="font-size:0.9em">
 ![networking-overview](/assets/images/articles/networking4-3.jpg){:class="img-center"}
+
+<p style="font-size:0.9em;text-align:center">
 Ayush at his graduation from MIT</p>
 
 **Skills**
