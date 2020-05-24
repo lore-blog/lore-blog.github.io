@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NETWORKING PART III: What to Expect'
+title: "NETWORKING PART III: What to Expect"
 author:
 thumbnail: assets/images/articles/networking1-1.jpg
 featured: false
@@ -14,7 +14,7 @@ When building your network, keep in mind some pointers to maximize effectiveness
 
 A network should be like a botanical garden, with different species and varieties that make the whole organism valuable and interesting.
 
-![networking-overview](/assets/images/articles/networking3-1.jpg){:class="img-center"}
+![networking-overview](/assets/images/articles/networking3-1.png){:class="img-center"}
 
 In much the same way, you should also know the types of relationships within your team. [KC Haydon](https://www.kchaydon.com/){:target="\_blank"}, a professor of psychology and education at Mount Holyoke College in the US aptly summarizes the types of people in your network.
 
