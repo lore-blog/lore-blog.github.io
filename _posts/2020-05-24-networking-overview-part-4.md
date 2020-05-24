@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NETWORKING PART IV: How to become a valuable network member"
+title: "NETWORKING PART IV: How to Become a Valuable Network Member"
 author:
 thumbnail: assets/images/articles/networking4-1.jpg
 featured: false
