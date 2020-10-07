@@ -7,7 +7,7 @@ featured: true
 type: blog
 ---
 
-The global switch to online learning during the COVID-19 pandemic may be the new normal for many educational institutions going forward. However, having lectures recorded and uploaded on to a learning management system (LMS) may not be enough to impart a holistic education.
+The global Switch to online learning during the COVID-19 pandemic may be the new normal for many educational institutions going forward. However, having lectures recorded and uploaded on to a learning management system (LMS) may not be enough to impart a holistic education.
 
 ![remote-teaching](/assets/images/articles/remote-teaching-1.jpg){:class="img-center"}
 
