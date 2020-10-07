@@ -1,9 +1,56 @@
 /* 
 Template Name: Mediumish 
-Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
+Copyright: Sal, WowThemes.net, https:/www.wowthemes.net 
 Version: 1.0.22 
-License: https://www.wowthemes.net/freebies-license/ 
+License: https:/www.wowthemes.net/freebies-license/ 
 */
+
+@font-face {
+  font-family: "halohandletterregular";
+  src: url("../fonts/halohandletter-webfont.woff2") format("woff2"), url("../fonts/halohandletter-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "proxima_novaregular";
+  src: url("../fonts/proxima_nova_regular-webfont.woff2") format("woff2"), url("../fonts/proxima_nova_regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "proxima_nova_ltsemibold";
+  src: url("../fonts/proxima_nova_semibold-webfont.woff2") format("woff2"), url("../fonts/proxima_nova_semibold-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Proxima Nova Rg";
+  src: url("../fonts/ProximaNova-Bold.woff2") format("woff2"), url("../fonts/ProximaNova-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Proxima Nova Lt";
+  src: url("../fonts/ProximaNova-Semibold.woff2") format("woff2"), url("../fonts/ProximaNova-Semibold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "proxima_novaextrabold";
+  src: url("../fonts/proximanova-extrabold.woff2") format("woff2"), url("../fonts/proximanova-extrabold.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "olivier";
+  src: url("../fonts/olivier.woff2") format("woff2"), url("/assets../fonts/olivier.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
 .mainheading {
   padding: 1rem 0rem;
 }
@@ -98,9 +145,17 @@ section.recent-posts {
   float: left;
   margin-right: 20px;
 }
+.sanghvi.xav {
+  width: 25%;
+}
+
 h5 {
   font-family: Merriweather !important;
 }
+.min-height {
+  min-height: 240px;
+}
+
 @media (min-width: 576px) {
   .card-columns.listfeaturedtag {
     -webkit-column-count: 2;
@@ -453,7 +508,7 @@ blockquote {
 }
 
 @media (max-width: 767px) {
-  .sanghvi {
+  .sanghvi.xav {
     width: 100%;
     float: initial;
     margin-right: 0;
@@ -748,7 +803,29 @@ iframe {
   border: 20px solid transparent;
   border-right: 20px solid burlywood;
 }
-
+.heading-font {
+  font-family: "Proxima Nova Rg";
+  text-align: center;
+  margin-top: 50px;
+}
+.heading-font .normal-font {
+  font-family: "proxima_novaregular";
+  color: #373737;
+}
+.heading-font span {
+  font-family: "olivier";
+  color: #ec411b;
+  font-weight: 500;
+}
+.blog-text {
+  font-size: 17px;
+  line-height: 34px;
+  text-align: left;
+}
+.mtb-20 {
+  margin-top: 30px;
+  margin-bottom: 35px;
+}
 @media (min-width: 768px) {
   .jumbotron.fortags {
     margin-bottom: -50px;
